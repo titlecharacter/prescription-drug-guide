@@ -17,21 +17,7 @@ def create_app():
     Bootstrap(app)
     app.config['SECRET_KEY'] = '123456'
 
-    #target = pd.read_csv("LowCostDrugsTarget.csv")
-    #walmart = pd.read_csv("LowCostDrugsWalmart.csv")
-    #df = pd.concat([target, walmart], axis=1)
-
     db = pd.read_csv("lowcostdrugs.csv")
-
-    '''@app.route('/df/<filename>')
-    def df(filename):
-        dataframe = pd.read_csv(filename)
-        return render_template('df.html', name=filename, data=dataframe.to_html())
-
-    @app.route('/user2/<name>')
-    def user2(name):
-        return render_template('user2.html', name=name)'''
-
 
     @app.route('/', methods=['GET', 'POST'])
     def index2():
