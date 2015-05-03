@@ -1,0 +1,1529 @@
+Drug,DX,30 day quantity,30 day price,90day quantity,90 day Price,Pharmacy
+BENZONATATE 100 MG ,"Allergy, Cough and Cold",14,$4,42,$10,Target
+LORATADINE 10 MG,"Allergy, Cough and Cold",30,$4,90,$10,Target
+PROMETHAZINE 6.25 MG/5 ML*,"Allergy, Cough and Cold",180,$4,540,$10,Target
+PROMETHAZINE DM ,"Allergy, Cough and Cold",120,$4,360,$10,Target
+CYCLOBENZAPRINE 10 MG,Analgesic,30,$4,90,$10,Target
+CYCLOBENZAPRINE 5 MG,Analgesic,30,$4,90,$10,Target
+IBUPROFEN 100 MG/5 ML*,Analgesic,120,$4,360,$10,Target
+IBUPROFEN 400 MG,Analgesic,90,$4,270,$10,Target
+IBUPROFEN 600 MG,Analgesic,60,$4,180,$10,Target
+IBUPROFEN 800 MG,Analgesic,30,$4,90,$10,Target
+INDOMETHACIN 25 MG*,Analgesic,60,$4,180,$10,Target
+MELOXICAM 15 MG,Analgesic,30,$4,90,$10,Target
+MELOXICAM 7.5 MG,Analgesic,30,$4,90,$10,Target
+NAPROXEN 375 MG*,Analgesic,60,$4,180,$10,Target
+NAPROXEN 500 MG*,Analgesic,60,$4,180,$10,Target
+BUSPIRONE 10 MG*,AntiAnxiety,60,$4,180,$10,Target
+BUSPIRONE 5 MG,AntiAnxiety,60,$4,180,$10,Target
+PAROXETINE 10 MG*,AntiAnxiety,30,$4,90,$10,Target
+PAROXETINE 20 MG*,AntiAnxiety,30,$4,90,$10,Target
+AMOXICILLIN 125 MG/5 ML,Antibiotic,80,$4,240,$10,Target
+AMOXICILLIN 125 MG/5 ML,Antibiotic,100,$4,300,$10,Target
+AMOXICILLIN 125 MG/5 ML,Antibiotic,150,$4,450,$10,Target
+AMOXICILLIN 200 MG/5 ML,Antibiotic,50,$4,150,$10,Target
+AMOXICILLIN 200 MG/5 ML*,Antibiotic,75,$4,225,$10,Target
+AMOXICILLIN 200 MG/5 ML*,Antibiotic,100,$4,300,$10,Target
+AMOXICILLIN 250 MG,Antibiotic,30,$4,90,$10,Target
+AMOXICILLIN 250 MG/5 ML,Antibiotic,80,$4,240,$10,Target
+AMOXICILLIN 250 MG/5 ML,Antibiotic,100,$4,300,$10,Target
+AMOXICILLIN 250 MG/5 ML,Antibiotic,150,$4,450,$10,Target
+AMOXICILLIN 400 MG/5 ML,Antibiotic,50,$4,150,$10,Target
+AMOXICILLIN 400 MG/5 ML*,Antibiotic,75,$4,225,$10,Target
+AMOXICILLIN 400 MG/5 ML*,Antibiotic,100,$4,300,$10,Target
+AMOXICILLIN 500 MG,Antibiotic,30,$4,90,$10,Target
+CEPHALEXIN 250 MG,Antibiotic,28,$4,84,$10,Target
+CEPHALEXIN 500 MG,Antibiotic,30,$4,90,$10,Target
+CIPROFLOXACIN 250 MG,Antibiotic,14,$4,42,$10,Target
+CIPROFLOXACIN 500 MG,Antibiotic,20,$4,60,$10,Target
+PENICILLIN VK 125 MG/5 ML,Antibiotic,100,$4,300,$10,Target
+PENICILLIN VK 125 MG/5 ML,Antibiotic,200,$4,600,$10,Target
+PENICILLIN VK 250 MG,Antibiotic,28,$4,84,$10,Target
+PENICILLIN VK 250 MG/5 ML,Antibiotic,100,$4,300,$10,Target
+SMZ/TMP 400/80 MG,Antibiotic,28,$4,84,$10,Target
+SMZ/TMP DS 800/160 MG,Antibiotic,20,$4,60,$10,Target
+AMITRIPTYLINE 10 MG,Antidepressant,30,$4,90,$10,Target
+CITALOPRAM 20 MG,Antidepressant,30,$4,90,$10,Target
+CITALOPRAM 40 MG,Antidepressant,30,$4,90,$10,Target
+FLUOXETINE 10 MG,Antidepressant,30,$4,90,$10,Target
+FLUOXETINE 20 MG,Antidepressant,30,$4,90,$10,Target
+FLUOXETINE 40 MG*,Antidepressant,30,$4,90,$10,Target
+NORTRIPTYLINE 10 MG,Antidepressant,30,$4,90,$10,Target
+NORTRIPTYLINE 25 MG,Antidepressant,30,$4,90,$10,Target
+PAROXETINE 10 MG*,Antidepressant,30,$4,90,$10,Target
+PAROXETINE 20 MG*,Antidepressant,30,$4,90,$10,Target
+TRAZODONE 100 MG,Antidepressant,30,$4,90,$10,Target
+TRAZODONE 150 MG,Antidepressant,30,$4,90,$10,Target
+TRAZODONE 50 MG,Antidepressant,30,$4,90,$10,Target
+FLUCONAZOLE 150 MG,Antifungal,1,$4,3,$10,Target
+TERBINAFINE 250 MG*,Antifungal,30,$4,90,$10,Target
+IBUPROFEN 100 MG/5 ML*,AntiInflammatory,120,$4,360,$10,Target
+IBUPROFEN 400 MG,AntiInflammatory,90,$4,270,$10,Target
+IBUPROFEN 600 MG,AntiInflammatory,60,$4,180,$10,Target
+IBUPROFEN 800 MG,AntiInflammatory,30,$4,90,$10,Target
+INDOMETHACIN 25 MG*,AntiInflammatory,60,$4,180,$10,Target
+MELOXICAM 15 MG,AntiInflammatory,30,$4,90,$10,Target
+MELOXICAM 7.5 MG,AntiInflammatory,30,$4,90,$10,Target
+NAPROXEN 375 MG*,AntiInflammatory,60,$4,180,$10,Target
+NAPROXEN 500 MG*,AntiInflammatory,60,$4,180,$10,Target
+FLUPHENAZINE 1 MG,Antipsychotic,30,$4,90,$10,Target
+HALOPERIDOL 0.5 MG,Antipsychotic,30,$4,90,$10,Target
+HALOPERIDOL 1 MG,Antipsychotic,30,$4,90,$10,Target
+HALOPERIDOL 2 MG,Antipsychotic,30,$4,90,$10,Target
+LITHIUM CARB 300 MG*,Antipsychotic,90,$4,270,$10,Target
+ACYCLOVIR 200 MG,Antiviral,30,$4,90,$10,Target
+IBUPROFEN 400 MG,Arthritis,90,$4,270,$10,Target
+IBUPROFEN 600 MG,Arthritis,60,$4,180,$10,Target
+IBUPROFEN 800 MG,Arthritis,30,$4,90,$10,Target
+INDOMETHACIN 25 MG*,Arthritis,60,$4,180,$10,Target
+MELOXICAM 15 MG,Arthritis,30,$4,90,$10,Target
+MELOXICAM 7.5 MG,Arthritis,30,$4,90,$10,Target
+NAPROXEN 375 MG*,Arthritis,60,$4,180,$10,Target
+NAPROXEN 500 MG*,Arthritis,60,$4,180,$10,Target
+ALBUTEROL 2 MG/5 ML,Asthma,120,$4,360,$10,Target
+ALBUTEROL NEB 0.083%*,Asthma,75,$4,225,$10,Target
+IPRATROPIUM NEB 0.2 MG/ML*,Asthma,75,$4,225,$10,Target
+MEGESTROL 20 MG*,Cancer or Oncology,30,$4,90,$10,Target
+ATENOLOL 100 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+ATENOLOL 25 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+ATENOLOL 50 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+BENAZEPRIL 10 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+BENAZEPRIL 20 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+BENAZEPRIL 40 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+BENAZEPRIL 5 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+BISOPROLOL/HCTZ 10/6.25 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+BISOPROLOL/HCTZ 5/6.25 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+CARVEDILOL 12.5 MG,Cardiac or Hypertension,60,$4,180,$10,Target
+CARVEDILOL 25 MG*,Cardiac or Hypertension,60,$4,180,$10,Target
+CARVEDILOL 3.125 MG,Cardiac or Hypertension,60,$4,180,$10,Target
+CARVEDILOL 6.25 MG,Cardiac or Hypertension,60,$4,180,$10,Target
+CLONIDINE 0.1 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+CLONIDINE 0.2 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+ENALAPRIL/HCTZ 5/12.5 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+FUROSEMIDE 20 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+FUROSEMIDE 40 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+FUROSEMIDE 80 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+GUANFACINE 1 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+HYDRALAZINE 10 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+HYDRALAZINE 25 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+HYDROCHLOROTHIAZIDE 12.5 MG*,Cardiac or Hypertension,30,$4,90,$10,Target
+HYDROCHLOROTHIAZIDE 25 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+HYDROCHLOROTHIAZIDE 50 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+INDAPAMIDE 1.25 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+INDAPAMIDE 2.5 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+LISINOPRIL/HCTZ 1012.5 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+LISINOPRIL/HCTZ 2012.5 MG*,Cardiac or Hypertension,30,$4,90,$10,Target
+LISINOPRIL/HCTZ 2025 MG*,Cardiac or Hypertension,30,$4,90,$10,Target
+LISINOPRIL 10 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+LISINOPRIL 2.5 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+LISINOPRIL 20 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+LISINOPRIL 5 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+METHYLDOPA 250 MG*,Cardiac or Hypertension,60,$4,180,$10,Target
+METOPROLOL TARTRATE 100 MG*,Cardiac or Hypertension,60,$4,180,$10,Target
+METOPROLOL TARTRATE 25 MG,Cardiac or Hypertension,60,$4,180,$10,Target
+METOPROLOL TARTRATE 50 MG,Cardiac or Hypertension,60,$4,180,$10,Target
+SOTALOL HCL 80 MG*,Cardiac or Hypertension,30,$4,90,$10,Target
+SPIRONOLACTONE 25 MG*,Cardiac or Hypertension,30,$4,90,$10,Target
+TERAZOSIN 10 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+TERAZOSIN 1 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+TERAZOSIN 2 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+TERAZOSIN 5 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+TRIAMTERENE/HCTZ 75/50 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+VERAPAMIL 120 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+VERAPAMIL 80 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+WARFARIN 10 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+WARFARIN 1 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+WARFARIN 2.5 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+WARFARIN 2 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+WARFARIN 3 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+WARFARIN 4 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+WARFARIN 5 MG*,Cardiac or Hypertension,30,$4,90,$10,Target
+WARFARIN 6 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+WARFARIN 7.5 MG,Cardiac or Hypertension,30,$4,90,$10,Target
+LOVASTATIN 10 MG*,Cholesterol,30,$4,90,$10,Target
+LOVASTATIN 20 MG*,Cholesterol,30,$4,90,$10,Target
+GLIMEPIRIDE 1 MG,Diabetes,30,$4,90,$10,Target
+GLIMEPIRIDE 2 MG,Diabetes,30,$4,90,$10,Target
+GLIMEPIRIDE 4 MG,Diabetes,30,$4,90,$10,Target
+GLIPIZIDE 10 MG*,Diabetes,60,$4,180,$10,Target
+GLIPIZIDE 5 MG,Diabetes,30,$4,90,$10,Target
+GLYBURIDE 2.5 MG,Diabetes,30,$4,90,$10,Target
+GLYBURIDE 5 MG,Diabetes,30,$4,90,$10,Target
+METFORMIN 1000 MG*,Diabetes,60,$4,180,$10,Target
+METFORMIN 500 MG,Diabetes,60,$4,180,$10,Target
+METFORMIN 850 MG,Diabetes,60,$4,180,$10,Target
+METFORMIN ER 500 MG*,Diabetes,60,$4,180,$10,Target
+ANTIPYRINE/BENZOCAINE ,Ear Preparations,10,$4,30,$10,Target
+GENTAK 0.3%,Eye Preparations,5,$4,15,$10,Target
+GENTAMICIN 0.3%,Eye Preparations,5,$4,15,$10,Target
+POLYMYXIN SULFATE/TMP*,Eye Preparations,10,$4,30,$10,Target
+TIMOLOL MALEATE 0.25%,Eye Preparations,5,$4,15,$10,Target
+TIMOLOL MALEATE 0.5%,Eye Preparations,5,$4,15,$10,Target
+TOBRAMYCIN 0.3%,Eye Preparations,5,$4,15,$10,Target
+ESTRADIOL 0.5 MG,Hormones,30,$4,90,$10,Target
+ESTRADIOL 2 MG,Hormones,30,$4,90,$10,Target
+MEDROXYPROGESTERONE 10 MG,Hormones,10,$4,30,$10,Target
+MEDROXYPROGESTERONE 2.5 MG,Hormones,30,$4,90,$10,Target
+MEDROXYPROGESTERONE 5 MG,Hormones,30,$4,90,$10,Target
+FINASTERIDE 5 MG,Men's Health,30,$9,N/A,N/A,Target
+CYCLOBENZAPRINE 10 MG,Muscle Relaxants,30,$4,90,$10,Target
+CYCLOBENZAPRINE 5 MG,Muscle Relaxants,30,$4,90,$10,Target
+CHLORHEXIDINE GLUCONATE 0.12%,Other,473,$4,1419,$10,Target
+PROCHLORPERAZINE 10 MG,Other,30,$4,90,$10,Target
+BENZTROPINE 2 MG,Other,30,$4,90,$10,Target
+TRIHEXYPHENIDYL 2 MG,Other,60,$4,180,$10,Target
+MEGESTROL 20 MG*,Prostate or BPH,30,$4,90,$10,Target
+TERAZOSIN 10 MG,Prostate or BPH,30,$4,90,$10,Target
+TERAZOSIN 1 MG,Prostate or BPH,30,$4,90,$10,Target
+TERAZOSIN 2 MG,Prostate or BPH,30,$4,90,$10,Target
+TERAZOSIN 5 MG,Prostate or BPH,30,$4,90,$10,Target
+DEXAMETHASONE .75 MG,Steroids,12,$4,36,$10,Target
+DEXAMETHASONE 0.5 MG,Steroids,30,$4,90,$10,Target
+DEXAMETHASONE 4 MG,Steroids,6,$4,18,$10,Target
+PREDNISONE 2.5 MG,Steroids,30,$4,90,$10,Target
+PREDNISONE 5 MG,Steroids,30,$4,90,$10,Target
+DICYCLOMINE 10 MG,Stomach Disorders or Gastrointestinal,90,$4,270,$10,Target
+DICYCLOMINE 20 MG,Stomach Disorders or Gastrointestinal,60,$4,180,$10,Target
+LACTULOSE 10 GM/15 ML,Stomach Disorders or Gastrointestinal,237,$4,711,$10,Target
+METOCLOPRAMIDE 10 MG,Stomach Disorders or Gastrointestinal,60,$4,180,$10,Target
+METOCLOPRAMIDE 5 MG/5 ML,Stomach Disorders or Gastrointestinal,60,$4,180,$10,Target
+PROCHLORPERAZINE 10 MG,Stomach Disorders or Gastrointestinal,30,$4,90,$10,Target
+PROMETHAZINE 25 MG*,Stomach Disorders or Gastrointestinal,12,$4,36,$10,Target
+RANITIDINE 150 MG,Stomach Disorders or Gastrointestinal,60,$4,180,$10,Target
+RANITIDINE 300 MG,Stomach Disorders or Gastrointestinal,30,$4,90,$10,Target
+HYDROCORTISONE 2.5%,Topical Preparations,30,$4,90,$10,Target
+LIDOCAINE VISCOUS 2%,Topical Preparations,100,$4,300,$10,Target
+TRIAMCINOLONE 0.025%,Topical Preparations,15,$4,45,$10,Target
+TRIAMCINOLONE 0.025%,Topical Preparations,80,$4,240,$10,Target
+TRIAMCINOLONE 0.1%,Topical Preparations,15,$4,45,$10,Target
+TRIAMCINOLONE 0.1%,Topical Preparations,80,$4,240,$10,Target
+TRIAMCINOLONE 0.5%,Topical Preparations,15,$4,45,$10,Target
+FOLIC ACID 1 MG,Vitamins or Supplements,30,$4,90,$10,Target
+MAGNESIUM OXIDE 400 MG,Vitamins or Supplements,30,$4,90,$10,Target
+PRENATAL PLUS*,Vitamins or Supplements,30,$4,N/A,N/A,Target
+SODIUM FLUORIDE 0.5 MG*,Vitamins or Supplements,120,$4,N/A,N/A,Target
+ALENDRONATE SOD 35 MG,Women's Health,4,$9,12,$24,Target
+ALENDRONATE SOD 70 MG,Women's Health,4,$9,12,$24,Target
+CLOMIPHENE 50 MG,Women's Health,5,$9,15,$24,Target
+SPRINTEC 28DAY*,Women's Health,28,$9,N/A,$24,Target
+TRISPRINTEC 28DAY*,Women's Health,28,$9,N/A,$24,Target
+Benzonatate 100mg cap,Allergies & Cold and Flu,14,$4,42,$10,Walmart
+Loratadine 10mg tab,Allergies & Cold and Flu,30,$4,90,$10,Walmart
+Promethazine DM syrup,Allergies & Cold and Flu,120ml,$4,360ml,$10,Walmart
+Amoxicillin 125mg/5ml susp (80ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 125mg/5ml susp (100ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 125mg/5ml susp (150ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 200mg/5ml susp (50ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 200mg/5ml susp* (75ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 200mg/5ml susp* (100ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 250mg/5ml susp (80ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 250mg/5ml susp (100ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 250mg/5ml susp (150ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 400mg/5ml susp (50ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 400mg/5ml susp* (75ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 400mg/5ml susp* (100ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Amoxicillin 250mg cap,Antibiotic Treatments,30,$4,90,$10,Walmart
+Amoxicillin 500mg cap,Antibiotic Treatments,30,$4,90,$10,Walmart
+Cephalexin 250mg cap,Antibiotic Treatments,28,$4,84,$10,Walmart
+Cephalexin 500mg cap,Antibiotic Treatments,30,$4,90,$10,Walmart
+Ciprofloxacin 250mg tab,Antibiotic Treatments,14,$4,42,$10,Walmart
+Ciprofloxacin 500mg tab,Antibiotic Treatments,20,$4,60,$10,Walmart
+Penicillin VK 250mg tab,Antibiotic Treatments,28,$4,84,$10,Walmart
+Penicillin VK 125mg/5ml susp (100ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Penicillin VK 125mg/5ml susp (200ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+Penicillin VK 250mg/5ml susp (100ml bottle),Antibiotic Treatments,1,$4,3,$10,Walmart
+SMZ-TMP 200mg-40mg/5ml susp*,Antibiotic Treatments,120ml,$4,360ml,$10,Walmart
+SMZ-TMP 400mg-80mg tab,Antibiotic Treatments,28,$4,84,$10,Walmart
+SMZ-TMP DS 800mg-160mg tab,Antibiotic Treatments,20,$4,60,$10,Walmart
+Allopurinol 100mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Allopurinol 300mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Baclofen 10mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Cyclobenzaprine 5mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Cyclobenzaprine 10mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Dexamethasone 0.5mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Dexamethasone 0.75mg tab,Arthritis & Pain,12,$4,36,$10,Walmart
+Dexamethasone 4mg tab,Arthritis & Pain,6,$4,18,$10,Walmart
+Diclofenac DR 75mg tab,Arthritis & Pain,60,$4,180,$10,Walmart
+Ibuprofen 100mg/5ml susp,Arthritis & Pain,120ml,$4,360ml,$10,Walmart
+Ibuprofen 400mg tab,Arthritis & Pain,90,$4,270,$10,Walmart
+Ibuprofen 600mg tab,Arthritis & Pain,60,$4,180,$10,Walmart
+Ibuprofen 800mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Indomethacin 25mg cap,Arthritis & Pain,60,$4,180,$10,Walmart
+Meloxicam 7.5mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Meloxicam 15mg tab.,Arthritis & Pain,30,$4,90,$10,Walmart
+Naproxen 375mg tab,Arthritis & Pain,60,$4,180,$10,Walmart
+Naproxen 500mg tab,Arthritis & Pain,60,$4,180,$10,Walmart
+Allopurinol 100mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Allopurinol 300mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Baclofen 10mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Cyclobenzaprine 5mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Cyclobenzaprine 10mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Dexamethasone 0.5mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Dexamethasone 0.75mg tab,Arthritis & Pain,12,$4,36,$10,Walmart
+Dexamethasone 4mg tab,Arthritis & Pain,6,$4,18,$10,Walmart
+Diclofenac DR 75mg tab,Arthritis & Pain,60,$4,180,$10,Walmart
+Ibuprofen 100mg/5ml susp,Arthritis & Pain,120ml,$4,360ml,$10,Walmart
+Ibuprofen 400mg tab,Arthritis & Pain,90,$4,270,$10,Walmart
+Ibuprofen 600mg tab,Arthritis & Pain,60,$4,180,$10,Walmart
+Ibuprofen 800mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Indomethacin 25mg cap,Arthritis & Pain,60,$4,180,$10,Walmart
+Meloxicam 7.5mg tab,Arthritis & Pain,30,$4,90,$10,Walmart
+Meloxicam 15mg tab.,Arthritis & Pain,30,$4,90,$10,Walmart
+Naproxen 375mg tab,Arthritis & Pain,60,$4,180,$10,Walmart
+Naproxen 500mg tab,Arthritis & Pain,60,$4,180,$10,Walmart
+Lovastatin 10mg tab,Cholesterol,30,$4,90,$10,Walmart
+Lovastatin 20mg tab,Cholesterol,30,$4,90,$10,Walmart
+Glimepiride 1mg tab,Diabetes,30,$4,90,$10,Walmart
+Glimepiride 2mg tab,Diabetes,30,$4,90,$10,Walmart
+Glimepiride 4mg tab,Diabetes,30,$4,90,$10,Walmart
+Glipizide 5mg tab,Diabetes,30,$4,90,$10,Walmart
+Glipizide 10mg tab,Diabetes,60,$4,180,$10,Walmart
+Glyburide 2.5mg tab,Diabetes,30,$4,90,$10,Walmart
+Glyburide 5mg tab (blue),Diabetes,30,$4,90,$10,Walmart
+Glyburide 5mg tab (green).,Diabetes,30,$4,90,$10,Walmart
+"Glyburide, micronized 3mg tab",Diabetes,30,$4,90,$10,Walmart
+"Glyburide, micronized 6mg tab",Diabetes,30,$4,90,$10,Walmart
+Metformin 500mg tab,Diabetes,60,$4,180,$10,Walmart
+Metformin 850mg tab,Diabetes,60,$4,180,$10,Walmart
+Metformin 1000mg tab,Diabetes,60,$4,180,$10,Walmart
+Metformin 500mg ER tab,Diabetes,60,$4,180,$10,Walmart
+Antipyrine/Benzocaine otic (15ml bottle),Ear Health,1,$4,3,$10,Walmart
+Fluconazole 150mg tab,Fungal Infections,1,$4,3,$10,Walmart
+Nystatin cream* (15gm tube),Fungal Infections,1,$4,3,$10,Walmart
+Nystatin cream* (30gm tube),Fungal Infections,1,$4,3,$10,Walmart
+Terbinafine 250mg tab,Fungal Infections,30,$4,90,$10,Walmart
+Cimetidine 800mg tab*,Gastrointestinal Health,30 tablets,$4,90 tablets,$10,Walmart
+Cytra2 solution,Gastrointestinal Health,180ml bottle,$4,540ml bottle,$10,Walmart
+Dicyclomine 10mg cap,Gastrointestinal Health,90 capsules,$4,270 capsules,$10,Walmart
+Dicyclomine 20mg,Gastrointestinal Health,60 tablets,$4,180 tablets,$10,Walmart
+Famotidine 20mg,Gastrointestinal Health,60 tablets,$4,180 tablets,$10,Walmart
+Lactulose syrup*,Gastrointestinal Health,236ml bottle,$4,708ml bottle,$10,Walmart
+Metoclopramide 10mg,Gastrointestinal Health,60 tablets,$4,180 tablets,$10,Walmart
+Metoclopramide syrup,Gastrointestinal Health,60ml bottle,$4,180ml bottle,$10,Walmart
+Promethazine 25mg*,Gastrointestinal Health,12 tablets,$4,36 tablets,$10,Walmart
+Promethazine plain syrup*,Gastrointestinal Health,180ml bottle,$4,540ml bottle,$10,Walmart
+Ranitidine 150mg,Gastrointestinal Health,60 tablets,$4,180 tablets,$10,Walmart
+Ranitidine 300mg,Gastrointestinal Health,30 tablets,$4,90 tablets,$10,Walmart
+Erythromycin op. ointment (3.5gm tube)*,Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Gentak 0.3% op. soln,Glaucoma & Eye Care,5,$4,15,$10,Walmart
+Gentamicin 0.3% op. soln (5ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Levobunolol 0.5% op soln (5ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Neomycin/Polymyxin/Dexamethasone 0.1% op. ointment* (3.5gm tube),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Neomycin/Polymyxin/Dexamethasone 0.1% op. susp* (5ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Pilocarpine 1% op. soln* (15ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Pilocarpine 2% op. soln* (15ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Polymyxin Sulfate/TMP op. soln* (10ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Sulfacet Sodium 10% op. soln* (15ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Timolol Maleate 0.25% op. soln (5ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Timolol Maleate 0.5% op soln (5ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Tobramycin 0.3% op. soln (5ml bottle),Glaucoma & Eye Care,1,$4,3,$10,Walmart
+Atenolol-Chlorthalidone 100mg,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Atenolol 25mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Atenolol 50mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Atenolol 100mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Benazepril 5mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Benazepril 10mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Benazepril 20mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Benazepril 40mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Bisoprolol-HCTZ 2.5mg-6.25mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Bisoprolol-HCTZ 5mg-6.25mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Bisoprolol-HCTZ 10mg-6.25mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Carvedilol 3.125mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Carvedilol 6.25mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Carvedilol 12.5mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Carvedilol 25mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Clonidine 0.1mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Clonidine 0.2mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Enalapril-HCTZ 5mg-12.5mg tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Enalapril 2.5mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Enalapril 5mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Enalapril 10mg tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Enalapril 20mg tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Furosemide 20mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Furosemide 40mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Furosemide 80mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Guanfacine 1mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Hydralazine 10mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Hydralazine 25mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Hydrochlorothiazide(HCTZ)12.5mg cap,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Hydrochlorothiazide (HCTZ) 25mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Hydrochlorothiazide (HCTZ) 50mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Indapamide 1.25mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Indapamide 2.5mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Isosorbide Mononitrate 30mg ER tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Isosorbide Mononitrate 60mg ER tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Lisinopril-HCTZ 10mg-12.5mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Lisinopril-HCTZ 20mg-12.5mg tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Lisinopril-HCTZ 20mg-25mg tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Lisinopril 2.5mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Lisinopril 5mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Lisinopril 10mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Lisinopril 20mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Methyldopa 250mg tab*,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Metoprolol Tartrate 25mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Metoprolol Tartrate 50mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Metoprolol Tartrate 100mg tab*,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Propranolol 10mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Propranolol 20mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Propranolol 40mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Propranolol 80mg tab,Heart Health & Blood Pressure,60,$4,180,$10,Walmart
+Sotalol HCL 80mg tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Spironolactone 25mg tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Terazosin 1mg cap,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Terazosin 2mg cap,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Terazosin 5mg cap,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Terazosin 10mg cap,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Triamterene-HCTZ 75mg-50mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Triamterene-HCTZ 37.5mg-25mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Verapamil 80mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Verapamil 120mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Warfarin 1mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Warfarin 2mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Warfarin 2.5mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Warfarin 3mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Warfarin 4mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Warfarin 5mg tab*,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Warfarin 6mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Warfarin 7.5mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Warfarin 10mg tab,Heart Health & Blood Pressure,30,$4,90,$10,Walmart
+Finasteride 5mg,Men's Health,,$4,30 ($9/30-day),$10,Walmart
+Amitriptyline 10mg tab,Mental Health,30,$4,90,$10,Walmart
+Amitriptyline 25mg tab,Mental Health,30,$4,90,$10,Walmart
+Amitriptyline 50mg tab,Mental Health,30,$4,90,$10,Walmart
+Amitriptyline 75mg tab,Mental Health,30,$4,90,$10,Walmart
+Amitriptyline 100mg tab,Mental Health,30,$4,90,$10,Walmart
+Benztropine 2mg tab,Mental Health,30,$4,90,$10,Walmart
+Buspirone 5mg tab,Mental Health,60,$4,180,$10,Walmart
+Buspirone 10mg tab*,Mental Health,60,$4,180,$10,Walmart
+Carbamazepine 200mg tab*,Mental Health,60,$4,180,$10,Walmart
+Citalopram 20mg tab,Mental Health,30,$4,90,$10,Walmart
+Citalopram 40mg tab,Mental Health,30,$4,90,$10,Walmart
+Fluphenazine 1mg tab,Mental Health,30,$4,90,$10,Walmart
+Haloperidol 0.5mg tab,Mental Health,30,$4,90,$10,Walmart
+Haloperidol 1mg tab,Mental Health,30,$4,90,$10,Walmart
+Haloperidol 2mg tab,Mental Health,30,$4,90,$10,Walmart
+Haloperidol 5mg tab,Mental Health,30,$4,90,$10,Walmart
+Lithium Carbonate 300mg cap*,Mental Health,90,$4,270,$10,Walmart
+Nortriptyline 10mg cap,Mental Health,30,$4,90,$10,Walmart
+Nortriptyline 25mg cap,Mental Health,30,$4,90,$10,Walmart
+Paroxetine 10mg tab*,Mental Health,30,$4,90,$10,Walmart
+Paroxetine 20mg tab*,Mental Health,30,$4,90,$10,Walmart
+Prochlorperazine 10mg tab,Mental Health,30,$4,90,$10,Walmart
+Trazodone 50mg tab,Mental Health,30,$4,90,$10,Walmart
+Trazodone 100mg tab,Mental Health,30,$4,90,$10,Walmart
+Trazodone 150mg tab,Mental Health,30,$4,90,$10,Walmart
+Trihexyphenidyl 2mg tab,Mental Health,60,$4,180,$10,Walmart
+Gentamicin 0.1% cream (15gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Gentamicin 0.1% ointment (15gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Hydrocortisone 1% cream (28.35-30g tube),Skin Conditions,1,$4,3,$10,Walmart
+Hydrocortisone 2.5% cream (30gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Silver Sulfadiazine 1% cream* (50gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Triamcinolone 0.025% cream (15gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Triamcinolone 0.025% cream (80gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Triamcinolone 0.1% cream (15gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Triamcinolone 0.1% cream (80gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Triamcinolone 0.1% ointment (15gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Triamcinolone 0.1% ointment (80gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Triamcinolone 0.5% cream (15gm tube),Skin Conditions,1,$4,3,$10,Walmart
+Levothyroxine 25mcg tab,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 50mcg tab,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 75mcg tab,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 88mcg tab,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 100mcg tab,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 112mcg tab,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 125mcg tab,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 137mcg tab,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 150mcg tab,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 175mcg tab*,Thyroid Conditions,30,$4,90,$10,Walmart
+Levothyroxine 200mcg tab*,Thyroid Conditions,30,$4,90,$10,Walmart
+Acyclovir 200mg cap,Viruses,30,$4,90,$10,Walmart
+Folic Acid 1mg tab,Vitamins & Nutritional Health,30,$4,90,$10,Walmart
+Mag 64 64mg tab*,Vitamins & Nutritional Health,60,$4,180,$10,Walmart
+Magnesium Oxide 400mg tab,Vitamins & Nutritional Health,30,$4,90,$10,Walmart
+Prenatal Plus qty 30*,Vitamins & Nutritional Health,30,$4,90,$10,Walmart
+Sodium Fluoride .25mg chewable* (120ct bottle),Vitamins & Nutritional Health,1,$4,N/A,$10,Walmart
+Estradiol 0.5mg tab,Women's Health,30,$4,90,$10,Walmart
+Estradiol 1mg tab,Women's Health,30,$4,90,$10,Walmart
+Estradiol 2mg tab,Women's Health,30,$4,90,$10,Walmart
+MedroxyprogesteroneAcetate 2.5mg tab,Women's Health,30,$4,90,$10,Walmart
+Medroxyprogesterone Acetate 5mg tab,Women's Health,30,$4,90,$10,Walmart
+Medroxyprogesterone Acetate 10mg tab,Women's Health,10,$4,30,$10,Walmart
+Levonorgestrel/Ethinyl Estradiol,Oral Contraceptives,,$4,28,$10,Walmart
+Kurvelo,Oral Contraceptives,,$4,28,$10,Walmart
+Norethindrone USP,Oral Contraceptives,,$4,28,$10,Walmart
+Enskyce,Oral Contraceptives,,$4,28,$10,Walmart
+Jencycla.,Oral Contraceptives,,$4,28,$10,Walmart
+Pirmella 1/35,Oral Contraceptives,,$4,28,$10,Walmart
+Pirmella 7/7/7,Oral Contraceptives,,$4,28,$10,Walmart
+Sprintec.,Oral Contraceptives,,$4,28,$10,Walmart
+Tri-Sprintec,Oral Contraceptives,,$4,28,$10,Walmart
+Chlorhexidine Gluconate 0.12% soln (473ml bottle),Other Medical Conditions,1,$4,3,$10,Walmart
+Isoniazid 300mg tab,Other Medical Conditions,30,$4,90,$10,Walmart
+Lidocaine 2% viscous solution (100ml bottle),Other Medical Conditions,1,$4,3,$10,Walmart
+Megestrol 20mg tab*,Other Medical Conditions,30,$4,90,$10,Walmart
+Phenazopyridine 100mg tab*,Other Medical Conditions,6,$4,18,$10,Walmart
+Prednisone 2.5mg tab*,Other Medical Conditions,30,$4,90,$10,Walmart
+Prednisone 5mg tab*,Other Medical Conditions,30,$4,90,$10,Walmart
+INDOMETHACIN 50MG CAP,Pain,30,5,90,10,Walgreens
+NAPROXEN 250MG TAB,Pain,60,5,180,10,Walgreens
+NAPROXEN 375MG TAB,Pain,60,5,180,10,Walgreens
+NAPROXEN 500MG TAB,Pain,60,5,180,10,Walgreens
+NAPROXEN SODIUM 275MG TAB,Pain,30,5,90,10,Walgreens
+ALBUTEROL SULFATE SYRUP (2MG/5ML),Asthma,120,5,360,10,Walgreens
+AMIODARONE 200MG TAB,Blood Pressure,30,5,90,10,Walgreens
+ATENOLOL 100MG TAB,Blood Pressure,30,5,90,10,Walgreens
+ENALAPRIL 5MG TAB,Blood Pressure,60,5,180,10,Walgreens
+ENALAPRIL-HCTZ 5-12.5MG TAB,Blood Pressure,60,5,180,10,Walgreens
+ENALAPRIL-HCTZ 10-25MG TAB,Blood Pressure,30,5,90,10,Walgreens
+FUROSEMIDE 20MG TAB,Blood Pressure,60,5,180,10,Walgreens
+FUROSEMIDE 40MG TAB,Blood Pressure,60,5,180,10,Walgreens
+FUROSEMIDE 80MG TAB,Blood Pressure,30,5,90,10,Walgreens
+HYDRALAZINE 10MG TAB,Blood Pressure,60,5,180,10,Walgreens
+HYDROCHLOROTHIAZIDE 25MG TAB,Blood Pressure,30,5,90,10,Walgreens
+HYDROCHLOROTHIAZIDE 50MG TAB,Blood Pressure,30,5,90,10,Walgreens
+LISINOPRIL 10MG TAB,Blood Pressure,30,5,90,10,Walgreens
+LISINOPRIL 20MG TAB,Blood Pressure,30,5,90,10,Walgreens
+TRANDOLAPRIL 2MG TAB,Blood Pressure,30,5,90,10,Walgreens
+TRIAMTERENE 75MG/ HCTZ 50MG TAB,Blood Pressure,30,5,90,10,Walgreens
+VERAPAMIL 80MG TAB,Blood Pressure,30,5,90,10,Walgreens
+LOVASTATIN 10MG TAB,Cholesterol,30,5,90,10,Walgreens
+LOVASTATIN 20MG TAB,Cholesterol,30,5,90,10,Walgreens
+LOVASTATIN 40MG TAB,Cholesterol,30,5,90,10,Walgreens
+ALLER-CHLOR 4MG TAB,Cough/Cold/Allergy,100,5,300,10,Walgreens
+BENZONATATE 100MG CAP,Cough/Cold/Allergy,30,5,90,10,Walgreens
+LORATADINE 10MG TAB,Cough/Cold/Allergy,30,5,90,10,Walgreens
+PROMETHAZINE 25MG TAB,Cough/Cold/Allergy,12,5,36,10,Walgreens
+SILDEC PE-DM SYRUP,Cough/Cold/Allergy,120,5,360,10,Walgreens
+SILDEC-PE SYRUP,Cough/Cold/Allergy,120,5,360,10,Walgreens
+GLIMEPIRIDE 1MG TAB,Diabetes,30,5,90,10,Walgreens
+GLIMEPIRIDE 2MG TAB,Diabetes,30,5,90,10,Walgreens
+GLIMEPIRIDE 4MG TAB,Diabetes,30,5,90,10,Walgreens
+GLIPIZIDE 5MG TAB,Diabetes,30,5,90,10,Walgreens
+GLIPIZIDE 10MG TAB,Diabetes,60,5,180,10,Walgreens
+GLYBURIDE 1.25MG TAB,Diabetes,30,5,90,10,Walgreens
+GLYBURIDE MICRO 1.5MG TAB,Diabetes,30,5,90,10,Walgreens
+GLYBURIDE MICRO 3MG TAB,Diabetes,30,5,90,10,Walgreens
+GLYBURIDE MICRO 6MG TAB,Diabetes,30,5,90,10,Walgreens
+GLYBURIDE/METFORMIN 1.25/250MG TAB,Diabetes,60,5,180,10,Walgreens
+GLYBURIDE/METFORMIN 2.5/500MG TAB,Diabetes,60,5,180,10,Walgreens
+METFORMIN 500MG TAB,Diabetes,90,5,270,10,Walgreens
+METFORMIN 850MG TAB,Diabetes,90,5,270,10,Walgreens
+METFORMIN 1000MG TAB,Diabetes,90,5,270,10,Walgreens
+METFORMIN ER 500MG 24HR TAB,Diabetes,60,5,180,10,Walgreens
+DICYCLOMINE 20MG TAB,Gastrointestinal Health,60,5,180,10,Walgreens
+METOCLOPRAMIDE HCL 5MG/5ML SOLN,Gastrointestinal Health,60,5,180,10,Walgreens
+AMOXICILLIN 250MG CAP,Infections,30,5,90,10,Walgreens
+AMOXICILLIN 500MG CAP,Infections,30,5,90,10,Walgreens
+AMOXICILLIN 200MG/5ML SUSP 75ML,Infections,75,5,225,10,Walgreens
+AMOXICILLIN 200MG/5ML SUSP 100ML,Infections,100,5,300,10,Walgreens
+AMOXICILLIN 250MG/5ML SUSP 150ML,Infections,150,5,450,10,Walgreens
+AMOXICILLIN 250MG/5ML SUSP 100ML,Infections,100,5,300,10,Walgreens
+AMOXICILLIN 250MG/5ML SUSP 80ML,Infections,80,5,240,10,Walgreens
+AMOXICILLIN 400MG/5ML SUSP 50ML,Infections,50,5,150,10,Walgreens
+AMOXICILLIN 400MG/5ML SUSP 75ML,Infections,75,5,225,10,Walgreens
+AMOXICILLIN 400MG/5ML SUSP 100ML,Infections,100,5,300,10,Walgreens
+CEPHALEXIN 250MG CAP,Infections,28,5,84,10,Walgreens
+CEPHALEXIN 500MG CAP,Infections,30,5,90,10,Walgreens
+CIPROFLOXACIN 250MG TAB,Infections,14,5,42,10,Walgreens
+CIPROFLOXACIN 500MG TAB,Infections,20,5,60,10,Walgreens
+PENICILLIN VK 125MG/5ML SOLN 100ML,Infections,100,5,300,10,Walgreens
+PENICILLIN VK 125MG/5ML SOLN 200ML,Infections,200,5,600,10,Walgreens
+PENICILLIN VK 250MG/5ML SOLN 100ML,Infections,100,5,300,10,Walgreens
+PENICILLIN VK 250MG/5ML SOLN 200ML,Infections,200,5,600,10,Walgreens
+PENICILLIN VK 250MG TAB,Infections,30,5,90,10,Walgreens
+PENICILLIN VK 500MG TAB,Infections,20,5,60,10,Walgreens
+SMZ/TMP REGULAR STRENGTH TAB,Infections,28,5,84,10,Walgreens
+AMITRIPTYLINE 10MG TAB,Mental Health,30,5,90,10,Walgreens
+AMITRIPTYLINE 25MG TAB,Mental Health,30,5,90,10,Walgreens
+AMITRIPTYLINE 50MG TAB,Mental Health,30,5,90,10,Walgreens
+AMITRIPTYLINE 100MG** TAB,Mental Health,30,5,90,10,Walgreens
+FLUOXETINE 10MG CAP,Mental Health,30,5,90,10,Walgreens
+FLUOXETINE 20MG CAP,Mental Health,30,5,90,10,Walgreens
+FLUOXETINE 40MG CAP,Mental Health,30,5,90,10,Walgreens
+FLUOXETINE 10MG TAB,Mental Health,30,5,90,10,Walgreens
+MIRTAZAPINE 15MG TAB,Mental Health,30,5,90,10,Walgreens
+TRAZODONE 100MG TAB,Mental Health,30,5,90,10,Walgreens
+TRIAMCINOLONE 0.025% CREAM 15GM,Skin Conditions,15,5,45,10,Walgreens
+"CYANOCOBALAMIN 1000MCG/ML INJ, 1ML",Vitamins and Nutritional Health,3,5,9,10,Walgreens
+FLUORIDE 0.5MG F CHEWABLE TAB,Vitamins and Nutritional Health,30,5,90,10,Walgreens
+FOLIC ACID 1MG TAB,Vitamins and Nutritional Health,30,5,90,10,Walgreens
+MULTI-VITA-F 0.5MG CHEW TAB,Vitamins and Nutritional Health,30,5,90,10,Walgreens
+MULTIVITS W/FL 1MG & IRON CHEW TAB,Vitamins and Nutritional Health,30,5,90,10,Walgreens
+NATALCARE PLUS TAB (1MG FOLIC ACID),Vitamins and Nutritional Health,30,5,90,10,Walgreens
+RENA-VITE RX TAB,Vitamins and Nutritional Health,30,5,90,10,Walgreens
+VITAMIN B-12 100MCG TAB,Vitamins and Nutritional Health,100,5,300,10,Walgreens
+"VITAMIN D 50,000IU CAP",Vitamins and Nutritional Health,4,5,12,10,Walgreens
+ESTRADIOL 0.5MG TAB,Women\s Health,30,5,90,10,Walgreens
+ESTRADIOL 1MG TAB,Women\s Health,30,5,90,10,Walgreens
+ESTRADIOL 2MG TAB,Women\s Health,30,5,90,10,Walgreens
+MEDROXYPROGESTERONE 5MGTAB,Women\s Health,30,5,90,10,Walgreens
+MEDROXYPROGESTERONE 10MGTAB,Women\s Health,10,5,30,10,Walgreens
+PREDNISONE 10MG** TAB,Women\s Health,30,5,90,10,Walgreens
+FLUCONAZOLE 150MG TAB,Antifungal,1,10,3,20,Walgreens
+TERBINAFINE 250MG TAB,Antifungal,30,10,90,20,Walgreens
+ACYCLOVIR 200MG TAB,Antiviral,60,10,180,20,Walgreens
+CYCLOBENZAPRINE 5MG TAB,Pain,30,10,90,20,Walgreens
+CYCLOBENZAPRINE 10MG TAB,Pain,30,10,90,20,Walgreens
+IBUPROFEN 100MG/5ML ORAL SUSP,Pain,120,10,360,20,Walgreens
+IBUPROFEN 400MG TAB,Pain,90,10,270,20,Walgreens
+IBUPROFEN 600MG TAB,Pain,60,10,180,20,Walgreens
+IBUPROFEN 800MG TAB,Pain,60,10,180,20,Walgreens
+INDOMETHACIN 25MG CAP,Pain,60,10,180,20,Walgreens
+KETOROLAC 10MG TAB,Pain,15,10,45,20,Walgreens
+MELOXICAM 7.5MG TAB,Pain,30,10,90,20,Walgreens
+MELOXICAM 15MG TAB,Pain,30,10,90,20,Walgreens
+ALBUTEROL 0.083% INH SOLN 25X3ML,Asthma,76,10,228,20,Walgreens
+ALBUTEROL 0.5% INH SOL 20ML,Asthma,20,10,60,20,Walgreens
+AMINOPHYLLINE 100MG TAB,Asthma,60,10,180,20,Walgreens
+AMINOPHYLLINE 200MG TAB,Asthma,60,10,180,20,Walgreens
+DYPHYLLINE-GG 100-100 ELIXIR,Asthma,240,10,720,20,Walgreens
+IPRATROPIUM INHAL SOLN 60 X 2.5ML,Asthma,75,10,225,20,Walgreens
+AMILORIDE 5MG / HCTZ 50MG TAB,Blood Pressure,30,10,90,20,Walgreens
+AMLODIPINE BESYLATE 2.5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+AMLODIPINE BESYLATE 5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+AMLODIPINE BESYLATE 10MG TAB,Blood Pressure,30,10,90,20,Walgreens
+ATENOLOL 100MG/CHLORTHAL 25MG TAB,Blood Pressure,30,10,90,20,Walgreens
+ATENOLOL 25MG TAB,Blood Pressure,60,10,180,20,Walgreens
+ATENOLOL 50MG TAB,Blood Pressure,60,10,180,20,Walgreens
+ATENOLOL/CHLORTHALIDONE 50/25 TAB,Blood Pressure,30,10,90,20,Walgreens
+BENAZEPRIL 5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+BENAZEPRIL 10MG TAB,Blood Pressure,30,10,90,20,Walgreens
+BENAZEPRIL 20MG TAB,Blood Pressure,30,10,90,20,Walgreens
+BENAZEPRIL 40MG TAB,Blood Pressure,30,10,90,20,Walgreens
+BISOPROLOL FUMARATE 5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+BISOPROLOL/HCTZ 2.5MG/6.25MG TAB,Blood Pressure,30,10,90,20,Walgreens
+BISOPROLOL/HCTZ 5MG/6.25MG TAB,Blood Pressure,30,10,90,20,Walgreens
+BISOPROLOL/HCTZ 10MG/6.25MG TAB,Blood Pressure,30,10,90,20,Walgreens
+CARVEDILOL 3.125MG TAB,Blood Pressure,60,10,180,20,Walgreens
+CARVEDILOL 6.25MG TAB,Blood Pressure,60,10,180,20,Walgreens
+CARVEDILOL 12.5MG TAB,Blood Pressure,60,10,180,20,Walgreens
+CARVEDILOL 25MG TAB,Blood Pressure,60,10,180,20,Walgreens
+CLONIDINE 0.1MG TAB,Blood Pressure,60,10,180,20,Walgreens
+CLONIDINE 0.2MG TAB,Blood Pressure,60,10,180,20,Walgreens
+CLONIDINE 0.3MG TAB,Blood Pressure,60,10,180,20,Walgreens
+DILTIAZEM 30MG TAB,Blood Pressure,60,10,180,20,Walgreens
+DILTIAZEM 60MG TAB,Blood Pressure,60,10,180,20,Walgreens
+DILTIAZEM 90MG TAB,Blood Pressure,60,10,180,20,Walgreens
+DILTIAZEM 120MG TAB,Blood Pressure,30,10,90,20,Walgreens
+ENALAPRIL 2.5MG TAB,Blood Pressure,60,10,180,20,Walgreens
+ENALAPRIL 10MG TAB,Blood Pressure,60,10,180,20,Walgreens
+FOSINOPRIL 10MG TAB,Blood Pressure,30,10,90,20,Walgreens
+FOSINOPRIL 20MG TAB,Blood Pressure,30,10,90,20,Walgreens
+FOSINOPRIL 40MG TAB,Blood Pressure,30,10,90,20,Walgreens
+GUANFACINE 1MG TAB,Blood Pressure,30,10,90,20,Walgreens
+GUANFACINE 2MG TAB,Blood Pressure,30,10,90,20,Walgreens
+HYDRALAZINE 25MG TAB,Blood Pressure,60,10,180,20,Walgreens
+HYDROCHLOROTHIAZIDE 12.5MG CAP,Blood Pressure,30,10,90,20,Walgreens
+INDAPAMIDE 1.25MG TAB,Blood Pressure,30,10,90,20,Walgreens
+INDAPAMIDE 2.5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+ISOSORBIDE DINITRATE 2.5MG SL TAB,Blood Pressure,30,10,90,20,Walgreens
+ISOSORBIDE MONONITRATE 30MG ER TAB,Blood Pressure,30,10,90,20,Walgreens
+ISOSORBIDE MONONITRATE 60MG ER TAB,Blood Pressure,30,10,90,20,Walgreens
+LISINOPRIL 2.5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+LISINOPRIL 5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+LISINOPRIL 30MG TAB,Blood Pressure,30,10,90,20,Walgreens
+LISINOPRIL 40MG TAB,Blood Pressure,30,10,90,20,Walgreens
+LISINOPRIL-HCTZ 10/12.5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+LISINOPRIL-HCTZ 20/12.5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+LISINOPRIL-HCTZ 20/25MG TAB,Blood Pressure,30,10,90,20,Walgreens
+METOPROLOL TARTRATE 25MG TAB,Blood Pressure,60,10,180,20,Walgreens
+METOPROLOL TARTRATE 50MG TAB,Blood Pressure,60,10,180,20,Walgreens
+METOPROLOL TARTRATE 100MG TAB,Blood Pressure,60,10,180,20,Walgreens
+PRAZOSIN 1MG CAP,Blood Pressure,30,10,90,20,Walgreens
+PROPRANOLOL 10MG TAB,Blood Pressure,60,10,180,20,Walgreens
+PROPRANOLOL 20MG TAB,Blood Pressure,60,10,180,20,Walgreens
+PROPRANOLOL 40MG TAB,Blood Pressure,60,10,180,20,Walgreens
+PROPRANOLOL 80MG TAB,Blood Pressure,60,10,180,20,Walgreens
+QUINAPRIL 5MG TAB,Blood Pressure,30,10,90,20,Walgreens
+QUINAPRIL 10MG TAB,Blood Pressure,30,10,90,20,Walgreens
+QUINAPRIL 20MG TAB,Blood Pressure,30,10,90,20,Walgreens
+QUINAPRIL 40MG TAB,Blood Pressure,30,10,90,20,Walgreens
+SOTALOL 120MG TAB,Blood Pressure,60,10,180,20,Walgreens
+SPIRONOLACTONE 25MG TAB,Blood Pressure,30,10,90,20,Walgreens
+SPIRONOLACTONE 50MG TAB,Blood Pressure,30,10,90,20,Walgreens
+SPIRONOLACTONE 25MG W/HCTZ 25MG TAB,Blood Pressure,30,10,90,20,Walgreens
+TERAZOSIN 1MG CAP,Blood Pressure,30,10,90,20,Walgreens
+TERAZOSIN 2MG CAP,Blood Pressure,30,10,90,20,Walgreens
+TERAZOSIN 5MG CAP,Blood Pressure,30,10,90,20,Walgreens
+TERAZOSIN 10MG CAP,Blood Pressure,30,10,90,20,Walgreens
+TRANDOLAPRIL 1MG TAB,Blood Pressure,30,10,90,20,Walgreens
+TRANDOLAPRIL 4MG TAB,Blood Pressure,30,10,90,20,Walgreens
+TRIAMTERENE 37.5MG/ HCTZ 25MG CAP,Blood Pressure,30,10,90,20,Walgreens
+VERAPAMIL 120MG TAB,Blood Pressure,30,10,90,20,Walgreens
+WARFARIN SOD 1MG TAB,CV,30,10,90,20,Walgreens
+WARFARIN SOD 2.5MG TAB,CV,30,10,90,20,Walgreens
+WARFARIN SOD 2MG TAB,CV,30,10,90,20,Walgreens
+WARFARIN SOD 3MG TAB,CV,30,10,90,20,Walgreens
+WARFARIN SOD 4MG TAB,CV,30,10,90,20,Walgreens
+WARFARIN SOD 5MG TAB,CV,30,10,90,20,Walgreens
+WARFARIN SOD 6MG TAB,CV,30,10,90,20,Walgreens
+WARFARIN SOD 7.5MG TAB,CV,30,10,90,20,Walgreens
+WARFARIN SOD 10MG** TAB,CV,30,10,90,20,Walgreens
+PRAVASTATIN 10MG TAB,Cholesterol,30,10,90,20,Walgreens
+PRAVASTATIN 20MG TAB,Cholesterol,30,10,90,20,Walgreens
+SIMVASTATIN 5MG TAB,Cholesterol,30,10,90,20,Walgreens
+SIMVASTATIN 10MG TAB,Cholesterol,30,10,90,20,Walgreens
+SIMVASTATIN 20MG TAB,Cholesterol,30,10,90,20,Walgreens
+DE-CHLOR DM LIQUID,Cough/Cold/Allergy,120,10,360,20,Walgreens
+DE-CHLOR DR SYRUP,Cough/Cold/Allergy,180,10,540,20,Walgreens
+DIPHENHYDRAMINE 50MG CAP,Cough/Cold/Allergy,30,10,90,20,Walgreens
+PHENYLTOLOXAMINE PE CPM SYRUP,Cough/Cold/Allergy,240,10,720,20,Walgreens
+PROMETHAZINE 12.5MG TAB,Cough/Cold/Allergy,30,10,90,20,Walgreens
+PROMETHAZINE 50MG TAB,Cough/Cold/Allergy,60,10,180,20,Walgreens
+PROMETHAZINE DM SYRUP,Cough/Cold/Allergy,180,10,540,20,Walgreens
+GLYBURIDE 2.5MG TAB,Diabetes,30,10,90,20,Walgreens
+GLYBURIDE 5MG TAB,Diabetes,30,10,90,20,Walgreens
+ANTIPYRINE BENZOCAINE OTIC SOL 15ML,Ear Care,15,10,45,20,Walgreens
+ERYTHROMYCIN OPHTH OINT 3.5GM,Eye Care,3.5,10,10.5,20,Walgreens
+GENTAMICIN 0.3% OPHTH SOLN 5ML,Eye Care,5,10,15,20,Walgreens
+LEVOBUNOLOL 0.5% OPTH SOLN 5ML,Eye Care,5,10,15,20,Walgreens
+POLYMYXIN-B/TRIMETHOPRIMOPHTH SOLN,Eye Care,10,10,30,20,Walgreens
+SULFACETAMIDE NA 10% OPH SOL 15ML,Eye Care,15,10,45,20,Walgreens
+TIMOLOL MALEATE .25% OPHTH SOL 5ML,Eye Care,5,10,15,20,Walgreens
+TIMOLOL MALEATE 0.5% OPHTH SOLN 5ML,Eye Care,5,10,15,20,Walgreens
+TOBRAMYCIN 0.3% OPH SOL 5ML,Eye Care,5,10,15,20,Walgreens
+DICYCLOMINE 10MG CAP,Gastrointestinal Health,90,10,270,20,Walgreens
+DOC-Q-LACE 100MG CAP,Gastrointestinal Health,60,10,180,20,Walgreens
+FAMOTIDINE 20MG TAB,Gastrointestinal Health,60,10,180,20,Walgreens
+GENERLAC 10GM/15ML SOLN,Gastrointestinal Health,237,10,711,20,Walgreens
+METOCLOPRAMIDE 5MG TAB,Gastrointestinal Health,60,10,180,20,Walgreens
+METOCLOPRAMIDE 10MG TAB,Gastrointestinal Health,60,10,180,20,Walgreens
+RANITIDINE 150MG TAB,Gastrointestinal Health,60,10,180,20,Walgreens
+RANITIDINE 300MG TAB,Gastrointestinal Health,30,10,90,20,Walgreens
+ALLOPURINOL 100MG TAB,Gout,60,10,180,20,Walgreens
+ALLOPURINOL 300MG TAB,Gout,60,10,180,20,Walgreens
+AMOXICILLIN 125MG CHEWABLE TAB,Infections,30,10,90,20,Walgreens
+AMOXICILLIN 125MG/5ML SUSP 80ML,Infections,80,10,240,20,Walgreens
+AMOXICILLIN 125MG/5ML SUSP 100ML,Infections,100,10,300,20,Walgreens
+AMOXICILLIN 125MG/5ML SUSP 150ML,Infections,150,10,450,20,Walgreens
+AMPICILLIN 250MG CAP,Infections,40,10,120,20,Walgreens
+METRONIDAZOLE 250MG TAB,Infections,28,10,84,20,Walgreens
+SULFAMETH/TRIMETHOPRIM 800/160 TAB,Infections,28,10,84,20,Walgreens
+AMITRIPTYLINE 75MG TAB,Mental Health,30,10,90,20,Walgreens
+AMITRIPTYLINE 150MG TAB,Mental Health,30,10,90,20,Walgreens
+BENZTROPINE 0.5MG TAB,Mental Health,30,10,90,20,Walgreens
+BENZTROPINE 2MG TAB,Mental Health,30,10,90,20,Walgreens
+BUSPIRONE 5MG TAB,Mental Health,60,10,180,20,Walgreens
+BUSPIRONE 10MG TAB,Mental Health,60,10,180,20,Walgreens
+CITALOPRAM 10MG TAB,Mental Health,30,10,90,20,Walgreens
+CITALOPRAM 20MG TAB,Mental Health,30,10,90,20,Walgreens
+CITALOPRAM 40MG TAB,Mental Health,30,10,90,20,Walgreens
+DOXEPIN 10MG CAP,Mental Health,30,10,90,20,Walgreens
+DOXEPIN 25MG CAP,Mental Health,30,10,90,20,Walgreens
+GABAPENTIN 100MG CAP,Mental Health,90,10,270,20,Walgreens
+HALOPERIDOL 1MG TAB,Mental Health,30,10,90,20,Walgreens
+HYDROXYZINE HCL 25MG TAB,Mental Health,30,10,90,20,Walgreens
+LITHIUM CARBONATE 300MG CAP,Mental Health,90,10,270,20,Walgreens
+METHOCARBAMOL 500MG TAB,Mental Health,30,10,90,20,Walgreens
+NORTRIPTYLINE 10MG CAP,Mental Health,30,10,90,20,Walgreens
+NORTRIPTYLINE 25MG CAP,Mental Health,30,10,90,20,Walgreens
+PAROXETINE 10MG TAB,Mental Health,30,10,90,20,Walgreens
+PAROXETINE 20MG TAB,Mental Health,30,10,90,20,Walgreens
+PROCHLORPERAZINE 5MG TAB,Mental Health,30,10,90,20,Walgreens
+PROCHLORPERAZINE 10MG TAB,Mental Health,30,10,90,20,Walgreens
+SERTRALINE 25MG TAB,Mental Health,30,10,90,20,Walgreens
+TRAZODONE 50MG TAB,Mental Health,30,10,90,20,Walgreens
+TRAZODONE 150MG TAB,Mental Health,30,10,90,20,Walgreens
+TRIHEXYPHENIDYL 2MG TAB,Mental Health,60,10,180,20,Walgreens
+CHLORHEXIDINE ORAL RINSE 473ML,Mouth/Throat/Dental,473,10,1419,20,Walgreens
+LIDOCAINE VISCOUS 2% ORAL SOL 100ML,Mouth/Throat/Dental,100,10,300,20,Walgreens
+SOD FLUORIDE 0.2% MINT SOLUTION,Mouth/Throat/Dental,473,10,1419,20,Walgreens
+CLOBETASOL PROP 0.05% GEL 15GM,Skin Conditions,15,10,45,20,Walgreens
+HYDROCORTISONE 1% CREAM 28.35GM,Skin Conditions,28.35,10,85.05,20,Walgreens
+HYDROCORTISONE 1% OINT 28.35GM,Skin Conditions,28.35,10,85.05,20,Walgreens
+HYDROCORTISONE 2.5% CREAM 30GM,Skin Conditions,30,10,90,20,Walgreens
+SELENIUM SULFIDE 2.5% SHAMPOO (LOTN),Skin Conditions,118,10,354,20,Walgreens
+TRIAMCINOLONE 0.5% CREAM 15GM,Skin Conditions,15,10,45,20,Walgreens
+TRIAMCINOLONE 0.1% CREAM 80GM,Skin Conditions,80,10,240,20,Walgreens
+LEVOTHROID 0.1MG TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.025MG (25MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.05MG (50MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.075MG (75MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.088MG (88MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.100MG (100MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.112MG (112MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.125MG (125MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.137MG (137MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.150MG (150MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.175MG (175MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.2MG (200MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+LEVOTHYROXINE 0.3MG (300MCG) TAB,Thyroid Conditions,30,10,90,20,Walgreens
+METHIMAZOLE 5MG TAB,Thyroid Conditions,30,10,90,20,Walgreens
+NATURE-THROID 0.5GR (32.5MG) TAB,Thyroid Conditions,60,10,180,20,Walgreens
+FERREX 150 FORTE CAP,Vitamins and Nutritional Health,45,10,135,20,Walgreens
+FLUORIDE 0.25MG F CHEWABLE TAB,Vitamins and Nutritional Health,120,10,360,20,Walgreens
+FLUORIDE 1.0MG F CHEWABLE TAB,Vitamins and Nutritional Health,30,10,90,20,Walgreens
+HEMATINIC/ FA TAB,Vitamins and Nutritional Health,30,10,90,20,Walgreens
+MULTIVIT/F 0.25MG CHEWABLE TAB,Vitamins and Nutritional Health,30,10,90,20,Walgreens
+MULTI-VIT/FLUORIDE 1MG CHEW TAB,Vitamins and Nutritional Health,30,10,90,20,Walgreens
+POLY-IRON 150 CAP,Vitamins and Nutritional Health,60,10,180,20,Walgreens
+POT CHLOR 10% LIQ SF (20MEQ/15ML),Vitamins and Nutritional Health,473,10,1419,20,Walgreens
+PRENATAL 19 TAB,Vitamins and Nutritional Health,30,10,90,20,Walgreens
+PRENATAL PLUS TAB,Vitamins and Nutritional Health,30,10,90,20,Walgreens
+VINATE GT TAB,Vitamins and Nutritional Health,30,10,90,20,Walgreens
+VINATE M TAB,Vitamins and Nutritional Health,30,10,90,20,Walgreens
+VINATE ONE TAB,Vitamins and Nutritional Health,30,10,90,20,Walgreens
+CLOMIPHENE CITRATE 50MG TAB,Women\s Health,5,10,15,20,Walgreens
+MEDROXYPROGESTERONE 2.5MG TAB,Women\s Health,30,10,90,20,Walgreens
+MEGESTROL ACETATE 20MG TAB,Women\s Health,30,10,90,20,Walgreens
+DEXAMETHASONE 0.5MG TAB,Women\s Health,60,10,180,20,Walgreens
+DEXAMETHASONE 0.75MG TAB,Women\s Health,12,10,36,20,Walgreens
+DEXAMETHASONE 4MG TAB,Women\s Health,30,10,90,20,Walgreens
+FINASTERIDE 5MG TAB,Women\s Health,30,10,90,20,Walgreens
+ISONIAZID 100MG TAB,Women\s Health,100,10,300,20,Walgreens
+LIDOCAINE 4% TOP SOLN 50ML,Women\s Health,50,10,150,20,Walgreens
+PHENAZOPYRIDINE 100MG TAB,Women\s Health,6,10,18,20,Walgreens
+PREDNISOLONE SOD PHOS 15MG/5ML SOL,Women\s Health,30,10,90,20,Walgreens
+PREDNISONE 2.5MG TAB,Women\s Health,60,10,180,20,Walgreens
+PREDNISONE 5MG TAB,Women\s Health,30,10,90,20,Walgreens
+PREDNISONE 20MG TAB,Women\s Health,30,10,90,20,Walgreens
+BACLOFEN 10MG TAB,Pain,90,15,270,30,Walgreens
+DICLOFENAC POTASSIUM 50MG TAB,Pain,60,15,180,30,Walgreens
+DICLOFENAC SODIUM 25MG TAB,Pain,60,15,180,30,Walgreens
+DICLOFENAC SODIUM 50MG TAB,Pain,60,15,180,30,Walgreens
+DICLOFENAC SODIUM 75MG EC TAB,Pain,60,15,180,30,Walgreens
+DICLOFENAC SODIUM 100MG ER TAB,Pain,30,15,90,30,Walgreens
+FLURBIPROFEN 50MG TAB,Pain,60,15,180,30,Walgreens
+FLURBIPROFEN 100MG TAB,Pain,60,15,180,30,Walgreens
+KETOPROFEN 50MG CAP,Pain,90,15,270,30,Walgreens
+KETOPROFEN 75MG CAP,Pain,60,15,180,30,Walgreens
+"KETOROLAC 30MG/ML INJ, 2ML",Pain,15,15,45,30,Walgreens
+LEFLUNOMIDE 10MG TAB,Pain,30,15,90,30,Walgreens
+NABUMETONE 500MG TAB,Pain,60,15,180,30,Walgreens
+NAPROXEN 375MG DR TAB,Pain,60,15,180,30,Walgreens
+NAPROXEN DR 500MG TAB,Pain,60,15,180,30,Walgreens
+NAPROXEN SODIUM 550MG TAB,Pain,30,15,90,30,Walgreens
+SULINDAC 150MG TAB,Pain,60,15,180,30,Walgreens
+TIZANIDINE 2MG TAB,Pain,60,15,180,30,Walgreens
+TRAMADOL 50MG TAB,Pain,120,15,360,30,Walgreens
+ALBUTEROL SULF INH SOLN 1.25MG/3ML,Asthma,90,15,270,30,Walgreens
+DYPHYLLIN-GG TAB,Asthma,30,15,90,30,Walgreens
+AMLODIPINE-BENAZ 2.5/10MG CAP,Blood Pressure,30,15,90,30,Walgreens
+AMLODIPINE-BENAZ 5/10MG CAP,Blood Pressure,30,15,90,30,Walgreens
+AMLODIPINE-BENAZ 5/20MG CAP,Blood Pressure,30,15,90,30,Walgreens
+AMLODIPINE-BENAZ 10/20MG CAP,Blood Pressure,30,15,90,30,Walgreens
+CARTIA 120MG XT CAP,Blood Pressure,30,15,90,30,Walgreens
+CILOSTAZOL 50MG TAB,Blood Pressure,60,15,180,30,Walgreens
+CILOSTAZOL 100MG TAB,Blood Pressure,60,15,180,30,Walgreens
+DILTIAZEM ER 120MG CAP (XR-24HR),Blood Pressure,30,15,90,30,Walgreens
+DIPYRIDAMOLE 25MG TAB,Blood Pressure,60,15,180,30,Walgreens
+DIPYRIDAMOLE 50MG TAB,Blood Pressure,60,15,180,30,Walgreens
+DIPYRIDAMOLE 75MG TAB,Blood Pressure,60,15,180,30,Walgreens
+DOXAZOSIN 1MG TAB,Blood Pressure,30,15,90,30,Walgreens
+DOXAZOSIN 2MG TAB,Blood Pressure,30,15,90,30,Walgreens
+DOXAZOSIN 4MG TAB,Blood Pressure,30,15,90,30,Walgreens
+ENALAPRIL 20MG TAB,Blood Pressure,60,15,180,30,Walgreens
+FELODIPINE 2.5MG TAB,Blood Pressure,30,15,90,30,Walgreens
+FUROSEMIDE 8MG/ML SOLN,Blood Pressure,120,15,360,30,Walgreens
+FUROSEMIDE 10MG/ML ORAL SOLN 60ML,Blood Pressure,90,15,270,30,Walgreens
+HYDRALAZINE 50MG TAB,Blood Pressure,90,15,270,30,Walgreens
+HYDROCHLOROTHIAZIDE 12.5MG TAB,Blood Pressure,30,15,90,30,Walgreens
+ISOSORBIDE DINITRATE 5MG SUBL TAB,Blood Pressure,120,15,360,30,Walgreens
+ISOSORBIDE MONONITRATE 10MG TAB,Blood Pressure,60,15,180,30,Walgreens
+ISOSORBIDE MONONITRATE 20MG TAB,Blood Pressure,60,15,180,30,Walgreens
+LOSARTAN/HCTZ 100/12.5MG TAB,Blood Pressure,30,15,90,30,Walgreens
+METHYLDOPA 250MG TAB,Blood Pressure,60,15,180,30,Walgreens
+METHYLDOPA 500MG TAB,Blood Pressure,60,15,180,30,Walgreens
+PENTOXIFYLLINE 400MG ER TAB,Blood Pressure,60,15,180,30,Walgreens
+PROPAFENONE 150MG TAB,Blood Pressure,90,15,270,30,Walgreens
+PROPRANOLOL 60MG TAB,Blood Pressure,60,15,180,30,Walgreens
+QUINAPRIL/HCTZ 10-12.5MG TAB,Blood Pressure,30,15,90,30,Walgreens
+RAMIPRIL 1.25MG CAP,Blood Pressure,30,15,90,30,Walgreens
+SOTALOL 160MG TAB,Blood Pressure,60,15,180,30,Walgreens
+TICLOPIDINE 250MG TAB,Blood Pressure,60,15,180,30,Walgreens
+TORSEMIDE 5MG TAB,Blood Pressure,30,15,90,30,Walgreens
+TORSEMIDE 10MG TAB,Blood Pressure,30,15,90,30,Walgreens
+TORSEMIDE 20MG TAB,Blood Pressure,30,15,90,30,Walgreens
+TORSEMIDE 100MG** TAB,Blood Pressure,30,15,90,30,Walgreens
+TRIAMTERENE 37.5MG/ HCTZ 25MG TAB,Blood Pressure,30,15,90,30,Walgreens
+VERAPAMIL 40MG TAB,Blood Pressure,60,15,180,30,Walgreens
+VERAPAMIL ER 100MG CAP (24 HR),Blood Pressure,30,15,90,30,Walgreens
+FENOFIBRATE 54MG TAB,Cholesterol,30,15,90,30,Walgreens
+GEMFIBROZIL 600MG TAB,Cholesterol,60,15,180,30,Walgreens
+PRAVASTATIN 40MG TAB,Cholesterol,30,15,90,30,Walgreens
+PRAVASTATIN 80MG TAB,Cholesterol,30,15,90,30,Walgreens
+SIMVASTATIN 40MG TAB,Cholesterol,30,15,90,30,Walgreens
+SIMVASTATIN 80MG TAB,Cholesterol,30,15,90,30,Walgreens
+BENZONATATE 200MG CAP,Cough/Cold/Allergy,30,15,90,30,Walgreens
+BROMDEX D SYRUP,Cough/Cold/Allergy,120,15,360,30,Walgreens
+CETIRIZINE 1MG/ML SYRUP,Cough/Cold/Allergy,120,15,360,30,Walgreens
+CYPROHEPTADINE 2MG/5ML SYRUP,Cough/Cold/Allergy,120,15,360,30,Walgreens
+DEHISTINE SYRUP,Cough/Cold/Allergy,240,15,720,30,Walgreens
+FLUTICASONE NASAL SP (120INH) 16GM,Cough/Cold/Allergy,16,15,48,30,Walgreens
+NOHIST TAB,Cough/Cold/Allergy,30,15,90,30,Walgreens
+ORGAN-I NR 200MG TAB,Cough/Cold/Allergy,120,15,360,30,Walgreens
+PBM ALLERGY SYRUP,Cough/Cold/Allergy,120,15,360,30,Walgreens
+QUARTUSS DM DROPS 30ML,Cough/Cold/Allergy,30,15,90,30,Walgreens
+QV-ALLERGY SYRUP,Cough/Cold/Allergy,240,15,720,30,Walgreens
+REME TUSSIN DM SYRUP,Cough/Cold/Allergy,150,15,450,30,Walgreens
+SUPRESS-DX PED DROPS 30ML,Cough/Cold/Allergy,30,15,90,30,Walgreens
+TRIPOHIST LIQUID,Cough/Cold/Allergy,120,15,360,30,Walgreens
+GLIPIZIDE ER 10MG TAB,Diabetes,30,15,90,30,Walgreens
+GLIPIZIDE XL 2.5MG TAB,Diabetes,60,15,180,30,Walgreens
+GLIPIZIDE XL 5MG TAB,Diabetes,30,15,90,30,Walgreens
+GLYBURIDE/METFORMIN 5/500MG TAB,Diabetes,90,15,270,30,Walgreens
+METFORMIN ER 750MG 24HR TAB,Diabetes,60,15,180,30,Walgreens
+ACETIC ACID 2% OTIC SOLN,Ear Care,15,15,45,30,Walgreens
+BACITRACIN/POLYMYX OPHTHOINT 3.5GM,Eye Care,3.5,15,10.5,30,Walgreens
+CARTEOLOL HCL 1% OPH SOL 5ML,Eye Care,5,15,15,30,Walgreens
+CARTEOLOL HCL 1% OPH SOL 10ML,Eye Care,10,15,30,30,Walgreens
+CARTEOLOL HCL 1% OPH SOL 15ML,Eye Care,15,15,45,30,Walgreens
+CROMOLYN SODIUM 4% OPHTH SOLN 10ML,Eye Care,10,15,30,30,Walgreens
+CYCLOPENTOL 1% OPTH SOLN 15ML,Eye Care,15,15,45,30,Walgreens
+DEXAMETHASONE 0.1% OPHTH SOLN 5ML,Eye Care,5,15,15,30,Walgreens
+DORZOLAMIDE 2% OPHTH SOLN 10ML,Eye Care,10,15,30,30,Walgreens
+KETOROLAC 0.4% OPTH SOLN 5ML,Eye Care,5,15,15,30,Walgreens
+KETOROLAC 0.5% OPHTH SOLN 5ML,Eye Care,5,15,15,30,Walgreens
+PILOCARPINE 0.5% OPHTH SOLN,Eye Care,15,15,45,30,Walgreens
+TROPICAMIDE 1% OP SOLN,Eye Care,15,15,45,30,Walgreens
+CIMETIDINE 200MG TAB,Gastrointestinal Health,60,15,180,30,Walgreens
+CIMETIDINE 300MG TAB,Gastrointestinal Health,60,15,180,30,Walgreens
+CIMETIDINE ORAL LIQ 300MG/5ML,Gastrointestinal Health,240,15,720,30,Walgreens
+FAMOTIDINE 40MG TAB,Gastrointestinal Health,30,15,90,30,Walgreens
+LACTULOSE 10GM/15ML SOLN,Gastrointestinal Health,473,15,1419,30,Walgreens
+NIZATIDINE 150MG CAP,Gastrointestinal Health,60,15,180,30,Walgreens
+NIZATIDINE 300MG CAP,Gastrointestinal Health,30,15,90,30,Walgreens
+OMEPRAZOLE 20MG CAP,Gastrointestinal Health,30,15,90,30,Walgreens
+RANITIDINE 15MG/ML (75MG/5ML) SYRUP,Gastrointestinal Health,120,15,360,30,Walgreens
+AMOX-CLAV 400MG CHEW TAB,Infections,20,15,60,30,Walgreens
+AMOX-CLAV 200MG/5ML SUSP 100ML,Infections,100,15,300,30,Walgreens
+AMOX-CLAV 400MG/5ML SUSP 100ML,Infections,100,15,300,30,Walgreens
+AMOX-CLAV ES 600MG/5ML SUSP 125ML,Infections,125,15,375,30,Walgreens
+AMOXICILLIN 250MG CHEW TAB,Infections,40,15,120,30,Walgreens
+AMOXICILLIN 500MG TAB,Infections,30,15,90,30,Walgreens
+AMOXICILLIN 875MG TAB,Infections,20,15,60,30,Walgreens
+AMPICILLIN 500MG CAP,Infections,60,15,180,30,Walgreens
+CEFACLOR 250MG CAP,Infections,30,15,90,30,Walgreens
+CEFADROXIL 500MG CAP,Infections,20,15,60,30,Walgreens
+CEFPROZIL 125MG/5ML SUSP 50ML,Infections,50,15,150,30,Walgreens
+CEFPROZIL 125MG/5ML SUSP 75ML,Infections,75,15,225,30,Walgreens
+CEFPROZIL 125MG/5ML SUSP 100ML,Infections,100,15,300,30,Walgreens
+CIPROFLOXACIN 750MG TAB,Infections,20,15,60,30,Walgreens
+CLINDAMYCIN 150MG CAP,Infections,30,15,90,30,Walgreens
+CLINDAMYCIN 300MG CAP,Infections,28,15,84,30,Walgreens
+DOXYCYCLINE MONOHYDRATE 50MG TAB,Infections,30,15,90,30,Walgreens
+DOXYCYCLINE MONOHYDRATE 100MG TAB,Infections,30,15,90,30,Walgreens
+METRONIDAZOLE 500MG TAB,Infections,14,15,42,30,Walgreens
+MINOCYCLINE 50MG CAP,Infections,60,15,180,30,Walgreens
+MINOCYCLINE 75MG CAP,Infections,60,15,180,30,Walgreens
+MINOCYCLINE 100MG CAP,Infections,30,15,90,30,Walgreens
+TRIMETHOPRIM 100MG TAB,Infections,30,15,90,30,Walgreens
+PROCHAMBER AERO SPACER,Medical Devices,1,15,3,30,Walgreens
+BENZTROPINE 1MG TAB,Mental Health,60,15,180,30,Walgreens
+BUSPIRONE 15MG TAB,Mental Health,60,15,180,30,Walgreens
+CARBAMAZEPINE 100MG CHEWABLE TAB,Mental Health,120,15,360,30,Walgreens
+CARBIDOPA/LEVODOPA 25-100MG CR TAB,Mental Health,90,15,270,30,Walgreens
+CLOZAPINE 25MG TAB,Mental Health,30,15,90,30,Walgreens
+DIVALPROEX DR 125MG TAB,Mental Health,90,15,270,30,Walgreens
+DOXEPIN 50MG CAP,Mental Health,30,15,90,30,Walgreens
+DOXEPIN HCL 10MG/ML CONC 118ML,Mental Health,90,15,270,30,Walgreens
+FLUOXETINE 20MG/5ML LIQUID,Mental Health,150,15,450,30,Walgreens
+FLUPHENAZINE 2.5MG TAB,Mental Health,30,15,90,30,Walgreens
+FLUPHENAZINE 5MG TAB,Mental Health,30,15,90,30,Walgreens
+FLUVOXAMINE 25MG TAB,Mental Health,30,15,90,30,Walgreens
+FLUVOXAMINE 100MG TAB,Mental Health,60,15,180,30,Walgreens
+GABAPENTIN 300MG CAP,Mental Health,90,15,270,30,Walgreens
+GABAPENTIN 400MG CAP,Mental Health,90,15,270,30,Walgreens
+GABAPENTIN 250MG/5ML SOLN,Mental Health,236,15,708,30,Walgreens
+HALOPERIDOL 0.5MG TAB,Mental Health,60,15,180,30,Walgreens
+HALOPERIDOL 2MG TAB,Mental Health,30,15,90,30,Walgreens
+HALOPERIDOL 2MG/ML CONCENTRATE,Mental Health,135,15,405,30,Walgreens
+HYDROXYZINE 10MG/5ML SYRUP,Mental Health,240,15,720,30,Walgreens
+HYDROXYZINE HCL 10MG TAB,Mental Health,60,15,180,30,Walgreens
+HYDROXYZINE HCL 50MG TAB,Mental Health,30,15,90,30,Walgreens
+HYDROXYZINE PAMOATE 25MG CAP,Mental Health,90,15,270,30,Walgreens
+IMIPRAMINE 10MG TAB,Mental Health,60,15,180,30,Walgreens
+IMIPRAMINE 25MG TAB,Mental Health,60,15,180,30,Walgreens
+IMIPRAMINE 50MG TAB,Mental Health,30,15,90,30,Walgreens
+LAMOTRIGINE 5MG CHEWABLE TAB,Mental Health,150,15,450,30,Walgreens
+LAMOTRIGINE 25MG CHEWABLE TAB,Mental Health,180,15,540,30,Walgreens
+LITHIUM CARBONATE 150MG CAP,Mental Health,60,15,180,30,Walgreens
+LITHIUM CARBONATE 300MG TAB,Mental Health,60,15,180,30,Walgreens
+LITHIUM CARBONATE 600MG CAP,Mental Health,60,15,180,30,Walgreens
+LITHIUM CARBONATE ER 450MG TAB,Mental Health,60,15,180,30,Walgreens
+METHOCARBAMOL 750MG TAB,Mental Health,60,15,180,30,Walgreens
+MIRTAZAPINE 30MG TAB,Mental Health,30,15,90,30,Walgreens
+NORTRIPTYLINE 50MG CAP,Mental Health,60,15,180,30,Walgreens
+NORTRIPTYLINE 75MG CAP,Mental Health,30,15,90,30,Walgreens
+OXCARBAZEPINE 150MG TAB,Mental Health,90,15,270,30,Walgreens
+PAROXETINE 30MG TAB,Mental Health,30,15,90,30,Walgreens
+PRAMIPEXOLE 0.125MG TAB,Mental Health,30,15,90,30,Walgreens
+PRAMIPEXOLE 0.25MG TAB,Mental Health,30,15,90,30,Walgreens
+PRAMIPEXOLE 0.5MG TAB,Mental Health,60,15,180,30,Walgreens
+PRAMIPEXOLE 1.5MG TAB,Mental Health,60,15,180,30,Walgreens
+PRIMIDONE 50MG TAB,Mental Health,60,15,180,30,Walgreens
+RISPERIDONE 0.25MG TAB,Mental Health,60,15,180,30,Walgreens
+RISPERIDONE ODT 0.5MG TAB,Mental Health,60,15,180,30,Walgreens
+RISPERIDONE ODT 1MG TAB,Mental Health,30,15,90,30,Walgreens
+RISPERIDONE ODT 2MG TAB,Mental Health,30,15,90,30,Walgreens
+ROPINIROLE 0.25MG TAB,Mental Health,60,15,180,30,Walgreens
+ROPINIROLE 3MG TAB,Mental Health,30,15,90,30,Walgreens
+SERTRALINE 50MG TAB,Mental Health,30,15,90,30,Walgreens
+SERTRALINE 100MG TAB,Mental Health,30,15,90,30,Walgreens
+THIORIDAZINE 25MG TAB,Mental Health,30,15,90,30,Walgreens
+THIORIDAZINE 50MG TAB,Mental Health,30,15,90,30,Walgreens
+TRIHEXYPHENIDYL 5MG TAB,Mental Health,90,15,270,30,Walgreens
+VALPROIC ACID 250MG/5ML SYRUP,Mental Health,540,15,1620,30,Walgreens
+VENLAFAXINE 25MG TAB,Mental Health,60,15,180,30,Walgreens
+VENLAFAXINE 37.5MG TAB,Mental Health,60,15,180,30,Walgreens
+VENLAFAXINE 50MG TAB,Mental Health,60,15,180,30,Walgreens
+VENLAFAXINE 75MG TAB,Mental Health,60,15,180,30,Walgreens
+VENLAFAXINE 100MG TAB,Mental Health,60,15,180,30,Walgreens
+PILOCARPINE 5MG TAB,Mouth/Throat/Dental,90,15,270,30,Walgreens
+SF 5000 PLUS 1.1% CREAM 51GM,Mouth/Throat/Dental,60,15,180,30,Walgreens
+STANNOUS FLUORIDE 0.63% RINSE,Mouth/Throat/Dental,300,15,900,30,Walgreens
+BENZOYL PEROXIDE 2.5% AQ GEL 60GM,Skin Conditions,60,15,180,30,Walgreens
+BENZOYL PEROXIDE 5% AQ GEL 60GM,Skin Conditions,60,15,180,30,Walgreens
+BETAMETHASONE VAL 0.1% CRM 15GM,Skin Conditions,15,15,45,30,Walgreens
+CICLOPIROX TOPICAL SUSPENSION 30ML,Skin Conditions,30,15,90,30,Walgreens
+CICLOPIROX TOPICAL SUSPENSION 60ML,Skin Conditions,60,15,180,30,Walgreens
+CLOTRIMAZOLE 1% SOLN 30ML,Skin Conditions,30,15,90,30,Walgreens
+FLUTICASONE 0.005% OINT 30GM,Skin Conditions,30,15,90,30,Walgreens
+HYDROCORTISONE 2.5% OINT 28.35GM,Skin Conditions,60,15,180,30,Walgreens
+HYPERCARE 20% SOL DAB-O-MATIC 60ML,Skin Conditions,60,15,180,30,Walgreens
+MELQUIN 3% SOLN 30ML,Skin Conditions,30,15,90,30,Walgreens
+MOMETASONE 0.1% OINT 15GM,Skin Conditions,15,15,45,30,Walgreens
+MOMETASONE 0.1% OINT 45GM,Skin Conditions,45,15,135,30,Walgreens
+MOMETASONE 0.1% TOPICAL SOLN 30ML,Skin Conditions,30,15,90,30,Walgreens
+MOMETASONE 0.1% TOPICAL SOLN 60ML,Skin Conditions,60,15,180,30,Walgreens
+NYSTATIN OINT 15GM,Skin Conditions,15,15,45,30,Walgreens
+SALICYLIC AC 6% SHAMPOO 177ML,Skin Conditions,177,15,531,30,Walgreens
+TRIAMCINOLONE 0.1% OINT 80GM,Skin Conditions,80,15,240,30,Walgreens
+UREA 40% LOTION 236.6ML,Skin Conditions,236.6,15,709.8,30,Walgreens
+UREA 50% NAIL GEL 18ML,Skin Conditions,18,15,54,30,Walgreens
+METHIMAZOLE 10MG TAB,Thyroid Conditions,30,15,90,30,Walgreens
+BETHANECHOL 5MG TAB,Urinary Health,60,15,180,30,Walgreens
+BETHANECHOL 10MG TAB,Urinary Health,60,15,180,30,Walgreens
+BETHANECHOL 25MG TAB,Urinary Health,90,15,270,30,Walgreens
+OXYBUTYNIN 5MG/5ML SYRUP,Urinary Health,240,15,720,30,Walgreens
+OXYBUTYNIN ER 5MG TAB,Urinary Health,30,15,90,30,Walgreens
+OXYBUTYNIN ER 15MG TAB,Urinary Health,30,15,90,30,Walgreens
+FABB TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+FE C PLUS TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+FEROTRIN CAP,Vitamins and Nutritional Health,60,15,180,30,Walgreens
+FOLBECAL TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+FOLBEE PLUS TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+FOLBEE TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+HEMATINIC PLUS TAB 10 X 10,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+KLOR-CON 10MEQ TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+MULTIGEN FOLIC TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+MULTIGEN TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+MULTIVITAMINS W/ FL 1.0MG CHEW TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+OB-NATAL ONE CAP,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+POLY-IRON 150 FORTE CAP,Vitamins and Nutritional Health,45,15,135,30,Walgreens
+POTASSIUM CL 10MEQ ER TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+PRENAFIRST TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+PRENATAB FA TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+RE DUALVIT F CAP,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+RE PRENATAL MULTIVIT W/IRON CHEW TB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+RENAL SOFTGEL CAP,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+THEROBEC PLUS TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+TRI-VIT/FE FL .25MG DROPS 50ML,Vitamins and Nutritional Health,50,15,150,30,Walgreens
+VINATE AZ TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+VINATE CARE CHEWABLE TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+VINATE C TAB,Vitamins and Nutritional Health,30,15,90,30,Walgreens
+ALENDRONATE 5MG TAB,Women\s Health,30,15,90,30,Walgreens
+ALENDRONATE 10MG TAB,Women\s Health,30,15,90,30,Walgreens
+ALENDRONATE 35MG TAB,Women\s Health,4,15,12,30,Walgreens
+ALENDRONATE 70MG TAB,Women\s Health,4,15,12,30,Walgreens
+ANASTROZOLE 1MG TAB,Women\s Health,30,15,90,30,Walgreens
+ESTROPIPATE 0.625MG (0.75MG) TAB,Women\s Health,30,15,90,30,Walgreens
+DEXAMETHASONE 1MG TAB,Women\s Health,30,15,90,30,Walgreens
+DEXAMETHASONE 1.5MG TAB,Women\s Health,45,15,135,30,Walgreens
+HYDROCORTISONE 5MG TAB,Women\s Health,50,15,150,30,Walgreens
+PREDNISOLONE 15MG/5ML SOLN,Women\s Health,60,15,180,30,Walgreens
+PREDNISONE 1MG TAB,Women\s Health,90,15,270,30,Walgreens
+PREDNISONE 5MG TAB PACK 21\S,Women\s Health,21,15,63,30,Walgreens
+ACYCLOVIR 200 MG CAP,Viruses,30,$10.99,90,$15.99,Rite-Aid
+ACYCLOVIR 400 MG TAB,Viruses,30,$10.99,90,$15.99,Rite-Aid
+ACYCLOVIR 800 MG TAB,Viruses,30,$10.99,90,$15.99,Rite-Aid
+ALBUTEROL 0.83 MG/ML SOL,Asthma,75ml (25 vials),$10.99,225ml (75 vials),$15.99,Rite-Aid
+ALBUTEROL 5 MG/ML SOL,Asthma,20ml,$10.99,60ml,$15.99,Rite-Aid
+ALBUTEROL SULF 2 MG/5 ML SYR,Asthma,120ml,$10.99,360ml,$15.99,Rite-Aid
+ALBUTEROL SULFATE 2 MG TAB,Asthma,60,$10.99,180,$15.99,Rite-Aid
+ALBUTEROL SULFATE 4 MG TAB,Asthma,60,$10.99,180,$15.99,Rite-Aid
+ALLOPURINOL 100 MG TAB,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+ALLOPURINOL 300 MG TAB,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+AMILORIDE HCL/HCTZ 5/50 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+AMITRIPTYLINE HCL 10 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+AMITRIPTYLINE HCL 100 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+AMITRIPTYLINE HCL 150 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+AMITRIPTYLINE HCL 25 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+AMITRIPTYLINE HCL 50 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+AMITRIPTYLINE HCL 75 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+AMLODIPINE BESYLATE 10 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+AMLODIPINE BESYLATE 2.5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+AMLODIPINE BESYLATE 5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+AMOX TR-K CLV 200-28.5/5 SUSP,Antibiotic Treatment,150ml,$10.99,450ml,$15.99,Rite-Aid
+AMOX TR-K CLV 200-28.5/5 SUSP,Antibiotic Treatment,200ml,$10.99,600ml,$15.99,Rite-Aid
+AMOXICILLIN 125 MG/5 ML SUSP,Antibiotic Treatment,100ml,$10.99,300ml,$15.99,Rite-Aid
+AMOXICILLIN 125 MG/5 ML SUSP,Antibiotic Treatment,150ml,$10.99,450ml,$15.99,Rite-Aid
+AMOXICILLIN 125 MG/5 ML SUSP,Antibiotic Treatment,80ml,$10.99,240ml,$15.99,Rite-Aid
+AMOXICILLIN 200 MG/5 ML SUSP,Antibiotic Treatment,100ml,$10.99,300ml,$15.99,Rite-Aid
+AMOXICILLIN 200 MG/5 ML SUSP,Antibiotic Treatment,50ml,$10.99,150ml,$15.99,Rite-Aid
+AMOXICILLIN 200 MG/5 ML SUSP,Antibiotic Treatment,75ml,$10.99,225ml,$15.99,Rite-Aid
+AMOXICILLIN 250 MG CAP,Antibiotic Treatment,30,$10.99,90,$15.99,Rite-Aid
+AMOXICILLIN 250 MG TAB CHEW,Antibiotic Treatment,30,$10.99,90,$15.99,Rite-Aid
+AMOXICILLIN 250 MG/5 ML SUSP,Antibiotic Treatment,100ml,$10.99,300ml,$15.99,Rite-Aid
+AMOXICILLIN 250 MG/5 ML SUSP,Antibiotic Treatment,150ml,$10.99,450ml,$15.99,Rite-Aid
+AMOXICILLIN 250 MG/5 ML SUSP,Antibiotic Treatment,80ml,$10.99,240ml,$15.99,Rite-Aid
+AMOXICILLIN 400 MG TAB CHEW,Antibiotic Treatment,30,$10.99,90,$15.99,Rite-Aid
+AMOXICILLIN 400 MG/5 ML SUSP,Antibiotic Treatment,100ml,$10.99,300ml,$15.99,Rite-Aid
+AMOXICILLIN 400 MG/5 ML SUSP,Antibiotic Treatment,50ml,$10.99,150ml,$15.99,Rite-Aid
+AMOXICILLIN 400 MG/5 ML SUSP,Antibiotic Treatment,75ml,$10.99,225ml,$15.99,Rite-Aid
+AMOXICILLIN 500 MG CAP,Antibiotic Treatment,30,$10.99,90,$15.99,Rite-Aid
+AMOXICILLIN 875 MG TAB,Antibiotic Treatment,20,$10.99,60,$15.99,Rite-Aid
+AMPICILLIN TR 250 MG CAP,Antibiotic Treatment,56,$10.99,168,$15.99,Rite-Aid
+AMPICILLIN TR 500 MG CAP,Antibiotic Treatment,56,$10.99,168,$15.99,Rite-Aid
+ANTIPYR/BENZOCAINE EAR DROPS,Ear Health,10ml,$10.99,30ml,$15.99,Rite-Aid
+ATENOLOL 100 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ATENOLOL 25 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ATENOLOL 50 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ATENOLOL/CHLORTHAL 100/25 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ATENOLOL/CHLORTHAL 50/25 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ATROPINE 1% EYE DROPS,Glaucoma & Eye Care,10ml,$10.99,30ml,$15.99,Rite-Aid
+BACIT/POLYMYXIN B OPTH OINT,Glaucoma & Eye Care,3.5gm,$10.99,10.5gm,$15.99,Rite-Aid
+BACLOFEN 10 MG TAB,Arthritis & Pain,90,$10.99,270,$15.99,Rite-Aid
+BACLOFEN 20 MG TAB,Arthritis & Pain,90,$10.99,270,$15.99,Rite-Aid
+BELLADONNA/PHENOBARB TAB,Gastroinestinal Health,60,$10.99,180,$15.99,Rite-Aid
+BENAZEPRIL HCL 10 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BENAZEPRIL HCL 20 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BENAZEPRIL HCL 40 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BENAZEPRIL HCL 5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BENZONATATE 100 MG CAP,Alergies & Cold and Flu,28,$10.99,84,$15.99,Rite-Aid
+BENZONATATE 200 MG CAP,Alergies & Cold and Flu,28,$10.99,84,$15.99,Rite-Aid
+BENZOYL PEROX 4% CREAMY WASH,Skin Conditions,171ml,$10.99,513ml,$15.99,Rite-Aid
+BENZTROPINE MES 0.5 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+BENZTROPINE MES 1 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+BENZTROPINE MES 2 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+BETAMETHASONE DP 0.05% CRM,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+BETAMETHASONE DP 0.05% CRM,Skin Conditions,45gm,$10.99,135gm,$15.99,Rite-Aid
+BETAMETHASONE DP 0.05% LOT,Skin Conditions,30ml,$10.99,90gm,$15.99,Rite-Aid
+BETAMETHASONE DP 0.05% LOT,Skin Conditions,60ml,$10.99,180gm,$15.99,Rite-Aid
+BETAMETHASONE VA 0.1% CRM,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+BETAMETHASONE VA 0.1% CRM,Skin Conditions,45gm,$10.99,135gm,$15.99,Rite-Aid
+BETAMETHASONE VA 0.1% OINT,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+BETAMETHASONE VA 0.1% OINT,Skin Conditions,45gm,$10.99,135gm,$15.99,Rite-Aid
+BETHANECHOL 10 MG TAB,Other Medical Conditions,120,$10.99,360,$15.99,Rite-Aid
+BETHANECHOL 25 MG TAB,Other Medical Conditions,120,$10.99,360,$15.99,Rite-Aid
+BETHANECHOL 5 MG TAB,Other Medical Conditions,120,$10.99,360,$15.99,Rite-Aid
+BISOPROLOL/HCTZ 10/6.25 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BISOPROLOL/HCTZ 2.5/6.25 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BISOPROLOL/HCTZ 5/6.25 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BRIMONIDINE 0.2% DROPS,Glaucoma & Eye Care,5,$10.99,15,$15.99,Rite-Aid
+BRIMONIDINE 0.2% DROPS,Glaucoma & Eye Care,15,$10.99,45,$15.99,Rite-Aid
+BRIMONIDINE 0.2% DROPS,Glaucoma & Eye Care,10,$10.99,30,$15.99,Rite-Aid
+BUMETANIDE 0.5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BUMETANIDE 1 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BUMETANIDE 2 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+BUSPIRONE HCL 10 MG TAB,Mental Health,60,$10.99,180,$15.99,Rite-Aid
+BUSPIRONE HCL 15 MG TAB,Mental Health,60,$10.99,180,$15.99,Rite-Aid
+BUSPIRONE HCL 30 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+BUSPIRONE HCL 5 MG TAB,Mental Health,60,$10.99,180,$15.99,Rite-Aid
+CAPTOPRIL 100 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CAPTOPRIL 12.5 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CAPTOPRIL 25 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CAPTOPRIL 50 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CARBAMAZEPINE 100 MG TAB CHEW,Mental Health,90,$10.99,270,$15.99,Rite-Aid
+CARBAMAZEPINE 200 MG TAB,Mental Health,90,$10.99,270,$15.99,Rite-Aid
+CARVEDILOL 12.5 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CARVEDILOL 25 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CARVEDILOL 3.125 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CARVEDILOL 6.25 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CEPHALEXIN 125 MG/5 ML SUSP,Antibiotic Treatment,200ml,$10.99,600ml,$15.99,Rite-Aid
+CEPHALEXIN 250 MG CAP,Antibiotic Treatment,28,$10.99,84,$15.99,Rite-Aid
+CEPHALEXIN 500 MG CAP,Antibiotic Treatment,40,$10.99,120,$15.99,Rite-Aid
+CERON DROPS,Alergies & Cold and Flu,30ml,$10.99,90ml,$15.99,Rite-Aid
+CERON-DM SYR,Alergies & Cold and Flu,118ml,$10.99,354ml,$15.99,Rite-Aid
+CHLORHEXIDINE GLUCONATE 12% SOLN,Other Medical Conditions,473ml,$10.99,1419ml,$15.99,Rite-Aid
+CHLORTHALIDONE 25 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+CHLORTHALIDONE 50 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+CICLOPIROX 0.77% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+CICLOPIROX 0.77% TOPICAL SUSP,Skin Conditions,30ml,$10.99,90ml,$15.99,Rite-Aid
+CIMETIDINE 300 MG TAB,Gastroinestinal Health,30,$10.99,90,$15.99,Rite-Aid
+CIMETIDINE 400 MG TAB,Gastroinestinal Health,60,$10.99,180,$15.99,Rite-Aid
+CIMETIDINE 800 MG TAB,Gastroinestinal Health,30,$10.99,90,$15.99,Rite-Aid
+CIPROFLOXACIN 0.3% OPHTH SOL,Glaucoma & Eye Care,2.5,$10.99,7.5,$15.99,Rite-Aid
+CIPROFLOXACIN 0.3% OPHTH SOL,Glaucoma & Eye Care,5,$10.99,15,$15.99,Rite-Aid
+CIPROFLOXACIN 0.3% OPHTH SOL,Glaucoma & Eye Care,10,$10.99,30,$15.99,Rite-Aid
+CIPROFLOXACIN HCL 250 MG TAB,Antibiotic Treatment,14,$10.99,42,$15.99,Rite-Aid
+CIPROFLOXACIN HCL 500 MG TAB,Antibiotic Treatment,20,$10.99,60,$15.99,Rite-Aid
+CIPROFLOXACIN HCL 750 MG TAB,Antibiotic Treatment,21,$10.99,63,$15.99,Rite-Aid
+CITALOPRAM HBR 10 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+CITALOPRAM HBR 20 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+CITALOPRAM HBR 40 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+CLINDAMYCIN PH 1% SOL,Skin Conditions,30ml,$10.99,90ml,$15.99,Rite-Aid
+CLOBETASOL 0.05% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+CLOBETASOL 0.05% CRM,Skin Conditions,45gm,$10.99,135gm,$15.99,Rite-Aid
+CLOBETASOL 0.05% OINT,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+CLOBETASOL 0.05% OINT,Skin Conditions,45gm,$10.99,135gm,$15.99,Rite-Aid
+CLOMIPHENE CITRATE 50 MG TAB,Woman\s Health,5,$10.99,15,$15.99,Rite-Aid
+CLONIDINE HCL 0.1 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CLONIDINE HCL 0.2 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CLONIDINE HCL 0.3 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+CLOTRIMAZOLE-BETAMETHASONE CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+CYCLOBENZAPRINE 10 MG TAB,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+C-PHEN DM DROPS,Alergies & Cold and Flu,30ml,$10.99,90gm,$15.99,Rite-Aid
+DESONIDE 0.05% CRM,Skin Conditions,30gm,$10.99,90ml,$15.99,Rite-Aid
+DESONIDE 0.05% OINT,Skin Conditions,30gm,$10.99,90ml,$15.99,Rite-Aid
+DESONIDE 0.05% OINT,Skin Conditions,60gm,$10.99,180gm,$15.99,Rite-Aid
+DEX PC SYR,Alergies & Cold and Flu,120ml,$10.99,360ml,$15.99,Rite-Aid
+DEXAMETHASONE 0.5 MG TAB,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+DEXAMETHASONE 0.75 MG TAB,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+DEXAMETHASONE 4 MG TAB,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+DICLOFENAC 0.1% EYE DROPS,Glaucoma & Eye Care,2.5,$10.99,7.5,$15.99,Rite-Aid
+DICLOFENAC 0.1% EYE DROPS,Glaucoma & Eye Care,5,$10.99,15,$15.99,Rite-Aid
+DICLOFENAC POT 50 MG TAB,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+DICLOFENAC SOD 100 MG TAB SA,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+DICLOFENAC SOD 50 MG TAB EC,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+DICLOFENAC SOD 75 MG TAB EC,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+DICLOXACILLIN 250 MG CAP,Antibiotic Treatment,40,$10.99,120,$15.99,Rite-Aid
+DICYCLOMINE 10 MG CAP,Gastroinestinal Health,60,$10.99,180,$15.99,Rite-Aid
+DICYCLOMINE 20 MG TAB,Gastroinestinal Health,60,$10.99,180,$15.99,Rite-Aid
+DIGOXIN 125 MCG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+DIGOXIN 250 MCG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+DILTIAZEM 120 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+DILTIAZEM 30 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+DILTIAZEM 60 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+DILTIAZEM 90 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+DOXAZOSIN MESYLATE 1 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+DOXAZOSIN MESYLATE 2 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+DOXAZOSIN MESYLATE 4 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+DOXAZOSIN MESYLATE 8 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+DOXEPIN 10 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+DOXEPIN 100 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+DOXEPIN 25 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+DOXEPIN 50 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+DOXEPIN 75 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+DOXYCYCLINE 100 MG CAP,Antibiotic Treatment,20,$10.99,60,$15.99,Rite-Aid
+DOXYCYCLINE 100 MG TAB,Antibiotic Treatment,20,$10.99,60,$15.99,Rite-Aid
+DOXYCYCLINE 20 MG TAB,Antibiotic Treatment,60,$10.99,180,$15.99,Rite-Aid
+DOXYCYCLINE 50 MG CAP,Antibiotic Treatment,40,$10.99,120,$15.99,Rite-Aid
+ECONAZOLE NITRATE 1% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+ENALAPRIL MALEATE 10 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ENALAPRIL MALEATE 2.5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ENALAPRIL MALEATE 20 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ENALAPRIL MALEATE 5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ENALAPRIL/HCTZ 10-25MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ENALAPRIL/HCTZ 5-12.5MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ERYTHROCIN 250 MG FILMTAB,Antibiotic Treatment,28,$10.99,84,$15.99,Rite-Aid
+ERYTHROCIN 500 MG FILMTAB,Antibiotic Treatment,14,$10.99,42,$15.99,Rite-Aid
+ERYTHROMYCIN 2% GEL,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+ERYTHROMYCIN 2% SOL,Skin Conditions,60ml,$10.99,180ml,$15.99,Rite-Aid
+ERYTHROMYCIN EYE OINT,Glaucoma & Eye Care,4gm,$10.99,12gm,$15.99,Rite-Aid
+EST ESTROGEN/METHYL TESTOST DS,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+EST ESTROGEN/METHYL TESTOST HS,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+ESTRADIOL 0.5 MG TAB,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+ESTRADIOL 1 MG TAB,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+ESTRADIOL 2 MG TAB,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+ESTROPIPATE 0.625(0.75 MG) TAB,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+ESTROPIPATE 1.25(1.5 MG) TAB,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+FAMOTIDINE 20 MG TAB,Gastroinestinal Health,60,$10.99,180,$15.99,Rite-Aid
+FAMOTIDINE 40 MG TAB,Gastroinestinal Health,30,$10.99,90,$15.99,Rite-Aid
+FLUCONAZOLE 100 MG TAB,Fungal Infections,10,$10.99,30,$15.99,Rite-Aid
+FLUCONAZOLE 150 MG TAB,Fungal Infections,1,$10.99,3,$15.99,Rite-Aid
+FLUCONAZOLE 200 MG TAB,Fungal Infections,10,$10.99,30,$15.99,Rite-Aid
+FLUOCINOLONE 0.01% SOL,Skin Conditions,60ml,$10.99,180ml,$15.99,Rite-Aid
+FLUOCINOLONE 0.025% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+FLUOCINOLONE 0.025% OINT,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+FLUOCINONIDE 0.05% CRM,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+FLUOCINONIDE 0.05% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+FLUOCINONIDE 0.05% CRM,Skin Conditions,60gm,$10.99,180gm,$15.99,Rite-Aid
+FLUOCINONIDE 0.05% GEL,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+FLUOCINONIDE 0.05% GEL,Skin Conditions,60gm,$10.99,180gm,$15.99,Rite-Aid
+FLUOCINONIDE 0.05% OINT,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+FLUOCINONIDE 0.05% SOL,Skin Conditions,60ml,$10.99,180ml,$15.99,Rite-Aid
+FLUOCINONIDE-E 0.05% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+FLUOCINONIDE-E 0.05% CRM,Skin Conditions,60gm,$10.99,180gm,$15.99,Rite-Aid
+FLUOXETINE 20 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+FLUOXETINE HCL 10 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+FLUOXETINE HCL 10 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+FLUOXETINE HCL 40 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+FLUPHENAZINE 1 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+FLUPHENAZINE 10 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+FLUPHENAZINE 2.5 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+FLUPHENAZINE 5 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+FLUTICASONE PROP 0.005% OINT,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+FLUTICASONE PROP 0.005% OINT,Skin Conditions,60gm,$10.99,180gm,$15.99,Rite-Aid
+FLUTICASONE PROP 0.05% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+FOLIC ACID 1 MG TAB,Vitamins & Nutritional Health,30,$10.99,90,$15.99,Rite-Aid
+FUROSEMIDE 20 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+FUROSEMIDE 40 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+FUROSEMIDE 80 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+GENTAMICIN 0.1% CRM,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+GENTAMICIN 0.1% OINT,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+GENTAMICIN 3 MG/ML EYE DROPS,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+GENTAMICIN 3 MG/ML EYE DROPS,Glaucoma & Eye Care,5ml,$10.99,15ml,$15.99,Rite-Aid
+GLIMEPIRIDE 1 MG TAB,Diabetes,30,$10.99,90,$15.99,Rite-Aid
+GLIMEPIRIDE 2 MG TAB,Diabetes,30,$10.99,90,$15.99,Rite-Aid
+GLIMEPIRIDE 4 MG TAB,Diabetes,30,$10.99,90,$15.99,Rite-Aid
+GLIPIZIDE 10 MG TAB,Diabetes,60,$10.99,180,$15.99,Rite-Aid
+GLIPIZIDE 5 MG TAB,Diabetes,60,$10.99,180,$15.99,Rite-Aid
+GLIPIZIDE XL 10 MG TAB,Diabetes,30,$10.99,90,$15.99,Rite-Aid
+GLIPIZIDE XL 2.5 MG TAB,Diabetes,30,$10.99,90,$15.99,Rite-Aid
+GLIPIZIDE XL 5 MG TAB,Diabetes,30,$10.99,90,$15.99,Rite-Aid
+GLYBURIDE 2.5 MG TAB,Diabetes,30,$10.99,90,$15.99,Rite-Aid
+GLYBURIDE 5 MG TAB,Diabetes,30,$10.99,90,$15.99,Rite-Aid
+GLYBURIDE MICRO 1.5 MG TAB,Diabetes,60,$10.99,180,$15.99,Rite-Aid
+GLYBURIDE MICRO 3 MG TAB,Diabetes,60,$10.99,180,$15.99,Rite-Aid
+GLYBURIDE MICRO 6 MG TAB,Diabetes,60,$10.99,180,$15.99,Rite-Aid
+GUANFACINE 1 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+GUANFACINE 2 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+HALOPERIDOL 0.5 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+HALOPERIDOL 1 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+HALOPERIDOL 2 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+HALOPERIDOL 5 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+HYDRALAZINE 10 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+HYDRALAZINE 100 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+HYDRALAZINE 25 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+HYDRALAZINE 50 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+HYDROCHLOROTHIAZIDE 12.5 MG CAP,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+HYDROCHLOROTHIAZIDE 25 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+HYDROCHLOROTHIAZIDE 50 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+HYDROCORTISONE 0.2% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+HYDROCORTISONE 0.2% CRM,Skin Conditions,45gm,$10.99,135gm,$15.99,Rite-Aid
+HYDROCORTISONE 2.5% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+HYDROCORTISONE 2.5% OINT,Skin Conditions,29gm,$10.99,87gm,$15.99,Rite-Aid
+HYDROCORTISONE AC 25 MG SUPP,Other Medical Conditions,12,$10.99,36,$15.99,Rite-Aid
+HYDROXYZINE HCL10MG/5ML SYR,Alergies & Cold and Flu,150ml,$10.99,450ml,$15.99,Rite-Aid
+IBUPROFEN 400 MG TAB,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+IBUPROFEN 600 MG TAB,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+IBUPROFEN 800 MG TAB,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+INDAPAMIDE 1.25 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+INDAPAMIDE 2.5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+INDOMETHACIN 25 MG CAP,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+INDOMETHACIN 50 MG CAP,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+IPRATROPIUM BR 0.02% SOLN,Asthma,75ml (25 vials),$10.99,225 (75 vials),$15.99,Rite-Aid
+ISONIAZID 300 MG TAB,Other Medical Conditions,30,$10.99,90,$15.99,Rite-Aid
+ISOSORBIDE DN 10 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+ISOSORBIDE DN 20 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+ISOSORBIDE DN 30 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+ISOSORBIDE DN 5 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+ISOSORBIDE MN 10 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+ISOSORBIDE MN 20 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+ISOSORBIDE MN 30 MG TAB SA,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+ISOSORBIDE MN 60 MG TAB ER,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+KETOCONAZOLE 2% CRM,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+KLOR-CON 20 MEQ PACKET,Vitamins & Nutritional Health,30,$10.99,90,$15.99,Rite-Aid
+LACTULOSE 10 GM/15 ML SOLN,Gastroinestinal Health,240ml,$10.99,720ml,$15.99,Rite-Aid
+LACTULOSE 10 GM/15 ML SOLN,Gastroinestinal Health,960ml,$10.99,2880ml,$15.99,Rite-Aid
+LEVOBUNOLOL 0.5% EYE DROPS,Glaucoma & Eye Care,10ml,$10.99,30ml,$15.99,Rite-Aid
+LEVOBUNOLOL 0.5% EYE DROPS,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+LEVOBUNOLOL 0.5% EYE DROPS,Glaucoma & Eye Care,5ml,$10.99,15ml,$15.99,Rite-Aid
+LEVOBUNOLOL SOL 0.25%,Glaucoma & Eye Care,5,$10.99,15,$15.99,Rite-Aid
+LEVOTHYROXINE 100 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 112 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 125 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 137 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 150 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 175 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 200 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 25 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 300 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 50 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 75 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LEVOTHYROXINE 88 MCG TAB,Thyroid Condition,30,$10.99,90,$15.99,Rite-Aid
+LIDOCAINE 2% VISCOUS SOLN,Other Medical Conditions,100ml,$10.99,300gm,$15.99,Rite-Aid
+LIDOCAINE-PRILOCAIN 2.5% CRM,Other Medical Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+LISINOPRIL 10 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+LISINOPRIL 2.5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+LISINOPRIL 20 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+LISINOPRIL 30 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+LISINOPRIL 40 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+LISINOPRIL 5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+LISINOPRIL-HCTZ 10/12.5 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+LISINOPRIL-HCTZ 20/12.5 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+LISINOPRIL-HCTZ 20/25 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+LITHIUM CARBONATE 300 MG CAP,Mental Health,90,$10.99,270,$15.99,Rite-Aid
+LOVASTATIN 10 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+LOVASTATIN 20 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+LOVASTATIN 40 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+MEDROXYPROGESTERONE 10 MG TAB,Woman\s Health,10,$10.99,30,$15.99,Rite-Aid
+MEDROXYPROGESTERONE 2.5 MG,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+MEDROXYPROGESTERONE 5 MG TAB,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+MEGESTROL 20 MG TAB,Other Medical Conditions,30,$10.99,90,$15.99,Rite-Aid
+MEGESTROL 40 MG TAB,Other Medical Conditions,30,$10.99,90,$15.99,Rite-Aid
+MELOXICAM 15 MG TAB,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+MELOXICAM 7.5 MG TAB,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+"METFORMIN HCL 1,000 MG TAB",Diabetes,60,$10.99,180,$15.99,Rite-Aid
+METFORMIN HCL 500 MG TAB,Diabetes,60,$10.99,180,$15.99,Rite-Aid
+METFORMIN HCL 750 MG ER TAB,Diabetes,60,$10.99,180,$15.99,Rite-Aid
+METFORMIN HCL 850 MG TAB,Diabetes,60,$10.99,180,$15.99,Rite-Aid
+METFORMIN HCL ER 500 MG TAB,Diabetes,60,$10.99,180,$15.99,Rite-Aid
+METHYLDOPA 250 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+METHYLPREDNISOLONE 4 MG DOSE PACK,Other Medical Conditions,21,$10.99,63,$15.99,Rite-Aid
+METHYLPREDNISOLONE 4 MG TAB,Other Medical Conditions,42,$10.99,126,$15.99,Rite-Aid
+METOCLOPRAMIDE 10 MG TAB,Gastroinestinal Health,60,$10.99,180,$15.99,Rite-Aid
+METOCLOPRAMIDE 5 MG TAB,Gastroinestinal Health,60,$10.99,180,$15.99,Rite-Aid
+METOCLOPRAMIDE 5 MG/5 ML SYR,Gastroinestinal Health,236ml,$10.99,708ml,$15.99,Rite-Aid
+METOPROLOL 100 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+METOPROLOL 25 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+METOPROLOL 50 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+METRONIDAZOLE 250 MG TAB,Antibiotic Treatment,28,$10.99,84,$15.99,Rite-Aid
+METRONIDAZOLE 500 MG TAB,Antibiotic Treatment,14,$10.99,42,$15.99,Rite-Aid
+MOMETASONE FUROATE 0.1% OINT,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+MULTI VITA-BETS/FL 0.25 MG TAB,Vitamins & Nutritional Health,30,$10.99,90,$15.99,Rite-Aid
+MULTI-VITA BETS/FL 0.25 MG LIQ,Vitamins & Nutritional Health,50ml,$10.99,150ml,$15.99,Rite-Aid
+MULTI-VITA BETS/FL 0.5 MG LIQ,Vitamins & Nutritional Health,50ml,$10.99,150ml,$15.99,Rite-Aid
+MULTI-VITA BETS/FL 0.5 MG TAB,Vitamins & Nutritional Health,30,$10.99,90,$15.99,Rite-Aid
+MULTI-VITA BETS/FL 1 MG TAB,Vitamins & Nutritional Health,30,$10.99,90,$15.99,Rite-Aid
+NADOLOL 20 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+NADOLOL 40 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+NADOLOL 80 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+NAPROXEN 250 MG TAB,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+NAPROXEN 375 MG TAB,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+NAPROXEN 500 MG TAB,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+NATALCARE PLUS TAB,Vitamins & Nutritional Health,30,$10.99,90,$15.99,Rite-Aid
+NEO/POLY/DEXAMET EYE OINT,Glaucoma & Eye Care,4gm,$10.99,12gm,$15.99,Rite-Aid
+NEO/POLYMYXIN/DEXAMETH DROPS,Glaucoma & Eye Care,5ml,$10.99,15ml,$15.99,Rite-Aid
+NITROGLYCERIN 0.3 MG TAB SL,Heart Health & Blood Pressure,100,$10.99,300,$15.99,Rite-Aid
+NITROGLYCERIN 0.4 MG TAB SL,Heart Health & Blood Pressure,50,$10.99,150,$15.99,Rite-Aid
+NITROGLYCERIN 0.6 MG SL TAB,Heart Health & Blood Pressure,100,$10.99,300,$15.99,Rite-Aid
+NITROGLYCERIN 2.5 MG SA CAP,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+NITROGLYCERIN 6.5 MG SA CAP,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+NITROGLYCERIN 9 MG SA CAP,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+NORTRIPTYLINE HCL 10 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+NORTRIPTYLINE HCL 25 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+NORTRIPTYLINE HCL 50 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+NORTRIPTYLINE HCL 75 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+"NYSTATIN 100,000 UNIT/GM CRM",Fungal Infections,15gm,$10.99,45gm,$15.99,Rite-Aid
+"NYSTATIN 100,000 UNIT/GM CRM",Fungal Infections,30gm,$10.99,90gm,$15.99,Rite-Aid
+"NYSTATIN 100,000 UNITS/GM OINT",Fungal Infections,15gm,$10.99,45gm,$15.99,Rite-Aid
+"NYSTATIN 100,000 UNITS/GM OINT",Fungal Infections,30gm,$10.99,90gm,$15.99,Rite-Aid
+NYSTATIN/TRIAMCINOLONE CRM,Fungal Infections,15gm,$10.99,45gm,$15.99,Rite-Aid
+NYSTATIN/TRIAMCINOLONE CRM,Fungal Infections,30gm,$10.99,90gm,$15.99,Rite-Aid
+NYSTATIN/TRIAMCINOLONE CRM,Fungal Infections,60gm,$10.99,180gm,$15.99,Rite-Aid
+NYSTATIN/TRIAMCINOLONE OINT,Fungal Infections,15gm,$10.99,45gm,$15.99,Rite-Aid
+NYSTATIN/TRIAMCINOLONE OINT,Fungal Infections,30gm,$10.99,90gm,$15.99,Rite-Aid
+OXYBUTYNIN 5 MG TAB,Other Medical Conditions,60,$10.99,180,$15.99,Rite-Aid
+PAROXETINE HCL 10 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+PAROXETINE HCL 20 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+PAROXETINE HCL 30 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+PAROXETINE HCL 40 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+PENICILLIN VK 125 MG/5 ML LIQ,Antibiotic Treatment,100ml,$10.99,300ml,$15.99,Rite-Aid
+PENICILLIN VK 125 MG/5 ML LIQ,Antibiotic Treatment,200ml,$10.99,600ml,$15.99,Rite-Aid
+PENICILLIN VK 250 MG TAB,Antibiotic Treatment,28,$10.99,84,$15.99,Rite-Aid
+PENICILLIN VK 250 MG/5 ML LIQ,Antibiotic Treatment,100ml,$10.99,300ml,$15.99,Rite-Aid
+PENICILLIN VK 250 MG/5 ML LIQ,Antibiotic Treatment,200ml,$10.99,600ml,$15.99,Rite-Aid
+PENICILLIN VK 500 MG TAB,Antibiotic Treatment,28,$10.99,84,$15.99,Rite-Aid
+PHENAZOPYRIDINE 100 MG TAB,Other Medical Conditions,12,$10.99,36,$15.99,Rite-Aid
+PHENAZOPYRIDINE 200 MG TAB,Other Medical Conditions,12,$10.99,36,$15.99,Rite-Aid
+PILOCARPINE 0.5% EYE DROPS,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+PILOCARPINE 1% EYE DROPS,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+PILOCARPINE 2% EYE DROPS,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+PILOCARPINE 4% EYE DROPS,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+PILOCARPINE 6% EYE DROPS,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+PIROXICAM 10 MG CAP,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+PIROXICAM 20 MG CAP,Arthritis & Pain,30,$10.99,90,$15.99,Rite-Aid
+POLYMYXIN B/TMP EYE DROPS,Glaucoma & Eye Care,10ml,$10.99,30ml,$15.99,Rite-Aid
+POTASSIUM CHLORIDE 10 MEQ ER TAB,Vitamins & Nutritional Health,30,$10.99,90,$15.99,Rite-Aid
+POTASSIUM CHLORIDE 20 MEQ ER TAB,Vitamins & Nutritional Health,30,$10.99,90,$15.99,Rite-Aid
+POTASSIUM CL 10% LIQUID S/F,Vitamins & Nutritional Health,473ml,$10.99,1419ml,$15.99,Rite-Aid
+POTASSIUM CL 20% LIQUID S/F,Vitamins & Nutritional Health,480ml,$10.99,1440ml,$15.99,Rite-Aid
+PRAVASTATIN SODIUM 10 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+PRAVASTATIN SODIUM 20 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+PRAVASTATIN SODIUM 40 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+PRAVASTATIN SODIUM 80 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+PRAZOSIN 1 MG CAP,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+PRAZOSIN 2 MG CAP,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+PRAZOSIN 5 MG CAP,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+PREDNISONE 1 MG TAB,Other Medical Conditions,90,$10.99,270,$15.99,Rite-Aid
+PREDNISONE 10 MG DOSE PACK,Other Medical Conditions,21,$10.99,63,$15.99,Rite-Aid
+PREDNISONE 10 MG DOSE PACK,Other Medical Conditions,48,$10.99,144,$15.99,Rite-Aid
+PREDNISONE 10 MG TAB,Other Medical Conditions,30,$10.99,90,$15.99,Rite-Aid
+PREDNISONE 2.5 MG TAB,Other Medical Conditions,30,$10.99,90,$15.99,Rite-Aid
+PREDNISONE 20 MG TAB,Other Medical Conditions,30,$10.99,90,$15.99,Rite-Aid
+PREDNISONE 5 MG DOSE PACK,Other Medical Conditions,21,$10.99,63,$15.99,Rite-Aid
+PREDNISONE 5 MG DOSE PACK,Other Medical Conditions,48,$10.99,144,$15.99,Rite-Aid
+PREDNISONE 5 MG TAB,Other Medical Conditions,30,$10.99,90,$15.99,Rite-Aid
+PROCHLORPERAZINE 10 MG TAB,Gastroinestinal Health,30,$10.99,90,$15.99,Rite-Aid
+PROMETHAZINE 25 MG TAB,Gastroinestinal Health,30,$10.99,90,$15.99,Rite-Aid
+PROMETHAZINE 50 MG TAB,Gastroinestinal Health,60,$10.99,180,$15.99,Rite-Aid
+PROMETHAZINE 6.25 MG/5 ML SYR,Gastroinestinal Health,180ml,$10.99,540ml,$15.99,Rite-Aid
+PROMETHAZINE DM SYRUP,Gastroinestinal Health,120ml,$10.99,360ml,$15.99,Rite-Aid
+PROPRANOLOL 10 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+PROPRANOLOL 20 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+PROPRANOLOL 40 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+PROPRANOLOL 80 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+RANITIDINE 150 MG TAB,Gastroinestinal Health,60,$10.99,180,$15.99,Rite-Aid
+RANITIDINE 300 MG TAB,Gastroinestinal Health,30,$10.99,90,$15.99,Rite-Aid
+SALSALATE 500 MG TAB,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+SALSALATE 750 MG TAB,Arthritis & Pain,60,$10.99,180,$15.99,Rite-Aid
+SELENIUM 2.5% LOTION/SHAMPOO,Skin Conditions,120ml,$10.99,360ml,$15.99,Rite-Aid
+SERTRALINE HCL 100 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+SERTRALINE HCL 25 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+SERTRALINE HCL 50 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+SILVER SULFADIAZINE 1% CRM,Skin Conditions,50gm,$10.99,150gm,$15.99,Rite-Aid
+SIMVASTATIN 10 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+SIMVASTATIN 20 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+SIMVASTATIN 40 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+SIMVASTATIN 5 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+SIMVASTATIN 80 MG TAB,Cholesterol,30,$10.99,90,$15.99,Rite-Aid
+SOTALOL 120 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+SOTALOL 160 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+SOTALOL 80 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+SPIRONOLACT/HCTZ 25/25 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+SPIRONOLACTONE 100 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+SPIRONOLACTONE 25 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+SPIRONOLACTONE 50 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+SULFACET SODIUM 10% OPTH SOL,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+SULFAMETHOXAZOLE W/TMP SUSP,Antibiotic Treatment,120ml,$10.99,360ml,$15.99,Rite-Aid
+SULFAMETHOXAZOLE/TMP DS TAB,Antibiotic Treatment,28,$10.99,84,$15.99,Rite-Aid
+SULFAMETHOXAZOLE/TMP SS TAB,Antibiotic Treatment,28,$10.99,84,$15.99,Rite-Aid
+TAMOXIFEN 10 MG TAB,Woman\s Health,60,$10.99,180,$15.99,Rite-Aid
+TAMOXIFEN 20 MG TAB,Woman\s Health,30,$10.99,90,$15.99,Rite-Aid
+TERAZOSIN 1 MG CAP,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+TERAZOSIN 10 MG CAP,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+TERAZOSIN 2 MG CAP,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+TERAZOSIN 5 MG CAP,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+TERBINAFINE HCL 250 MG TAB,Fungal Infections,30,$10.99,90,$15.99,Rite-Aid
+TETRACYCLINE 250 MG CAP,Antibiotic Treatment,60,$10.99,180,$15.99,Rite-Aid
+TETRACYCLINE 500 MG CAP,Antibiotic Treatment,60,$10.99,180,$15.99,Rite-Aid
+THIORIDAZINE 10 MG TAB,Mental Health,60,$10.99,180,$15.99,Rite-Aid
+THIORIDAZINE 100 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+THIORIDAZINE 25 MG TAB,Mental Health,60,$10.99,180,$15.99,Rite-Aid
+THIORIDAZINE 50 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+THIOTHIXENE 10 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+THIOTHIXENE 2 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+THIOTHIXENE 5 MG CAP,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+TIMOLOL 0.25% EYE DROPS,Glaucoma & Eye Care,10ml,$10.99,30ml,$15.99,Rite-Aid
+TIMOLOL 0.25% EYE DROPS,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+TIMOLOL 0.25% EYE DROPS,Glaucoma & Eye Care,5ml,$10.99,15ml,$15.99,Rite-Aid
+TIMOLOL 0.5% EYE DROPS,Glaucoma & Eye Care,10ml,$10.99,30ml,$15.99,Rite-Aid
+TIMOLOL 0.5% EYE DROPS,Glaucoma & Eye Care,15ml,$10.99,45ml,$15.99,Rite-Aid
+TIMOLOL 0.5% EYE DROPS,Glaucoma & Eye Care,5ml,$10.99,15ml,$15.99,Rite-Aid
+TOBRAMYCIN 0.3% EYE DROPS,Glaucoma & Eye Care,5ml,$10.99,15ml,$15.99,Rite-Aid
+TRAZODONE 100 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+TRAZODONE 150 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+TRAZODONE 50 MG TAB,Mental Health,30,$10.99,90,$15.99,Rite-Aid
+TRIAMCINOLONE 0.025% CRM,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+TRIAMCINOLONE 0.025% CRM,Skin Conditions,80gm,$10.99,240gm,$15.99,Rite-Aid
+TRIAMCINOLONE 0.025% OINT,Skin Conditions,30gm,$10.99,90gm,$15.99,Rite-Aid
+TRIAMCINOLONE 0.1% CRM,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+TRIAMCINOLONE 0.1% CRM,Skin Conditions,80gm,$10.99,240gm,$15.99,Rite-Aid
+TRIAMCINOLONE 0.1% OINT,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+TRIAMCINOLONE 0.1% OINT,Skin Conditions,80gm,$10.99,240gm,$15.99,Rite-Aid
+TRIAMCINOLONE 0.5% CRM,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+TRIAMTERENE/HCTZ 37.5/25 CAP,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+TRIAMTERENE/HCTZ 37.5/25 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+TRIAMTERENE/HCTZ 50/25 CAP,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+TRIAMTERENE/HCTZ 75/50 TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+TRIHEXYPHENIDYL 2 MG TAB,Mental Health,60,$10.99,180,$15.99,Rite-Aid
+TRIHEXYPHENIDYL 5 MG TAB,Mental Health,60,$10.99,180,$15.99,Rite-Aid
+TRI-VIT-FLUOR-IRON 0.25MG/ML,Vitamins & Nutritional Health,50,$10.99,150,$15.99,Rite-Aid
+UREA 40% CRM,Skin Conditions,29gm,$10.99,87gm,$15.99,Rite-Aid
+UREA 40% CRM,Skin Conditions,86gm,$10.99,258gm,$15.99,Rite-Aid
+UREA 40% GEL,Skin Conditions,15gm,$10.99,45gm,$15.99,Rite-Aid
+VERAPAMIL 120 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+VERAPAMIL 40 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+VERAPAMIL 80 MG TAB,Heart Health & Blood Pressure,60,$10.99,180,$15.99,Rite-Aid
+VINATE-M TAB,Vitamins & Nutritional Health,30,$10.99,90,$15.99,Rite-Aid
+WARFARIN SODIUM 1 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+WARFARIN SODIUM 10 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+WARFARIN SODIUM 2 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+WARFARIN SODIUM 2.5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+WARFARIN SODIUM 3 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+WARFARIN SODIUM 4 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+WARFARIN SODIUM 5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+WARFARIN SODIUM 6 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
+WARFARIN SODIUM 7.5 MG TAB,Heart Health & Blood Pressure,30,$10.99,90,$15.99,Rite-Aid
