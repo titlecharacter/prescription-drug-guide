@@ -1,14 +1,13 @@
+import pandas as pd
+from flask import Flask, render_template
+from flask.ext.bootstrap import Bootstrap
 from flask.ext.wtf import Form
 from wtforms import StringField, SubmitField
 from wtforms.validators import Required
 
-import pandas as pd
-from flask import Flask, render_template
-from flask.ext.bootstrap import Bootstrap
-
 # app = Flask(__name__)
 
-class PandasForm(Form):
+class PrescriptionForm(Form):
     name = StringField('Type in Rx query:', validators=[Required()])
     submit = SubmitField('Submit')
 
@@ -20,9 +19,9 @@ def create_app():
     db = pd.read_csv("lowcostdrugs.csv")
 
     @app.route('/', methods=['GET', 'POST'])
-    def index2():
+    def index():
         q = None
-        form = PandasForm()
+        form = PrescriptionForm()
         if form.validate_on_submit():
             # print form.name.data
             q = form.name.data
