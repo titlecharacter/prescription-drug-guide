@@ -17,3 +17,13 @@ https://github.com/HHS/pillbox_docs/wiki/Pillbox-API-documentation#2-example-api
 https://developer.pillfill.com/apis/?url=/service/api-docs?group=drug-info-api-v1#!/drug-information-service/searchDrugProductInfo
 
 GoodRx - app/site that provides a lot of drug pricing information; does 90% of what we want to do, but is presented in a very consumer-centric form. Physicians on our team found it really tedious to deal with for their use case: just punching in a list of medications & getting back a list of where they can be purchased, inexpensively, with possible alternatives, and restricted to pharmacies their patient can get to easily.
+
+Team:
+====
+* Arif Billah
+* Jorge Feria
+* Ted Fujimoto
+* Ben Novack
+* Jeff Sloan
+
+Special thanks to [Miguel Grinberg](http://blog.miguelgrinberg.com/) and his Flask tutorials for inspiring this framework.

@@ -1,6 +1,6 @@
 {% extends "bootstrap/base.html" %}
 {% import "bootstrap/wtf.html" as wtf %}
-{% block title %}Flasky{% endblock %}
+{% block title %}Prescription Drug Guide{% endblock %}
 {% block navbar %}
 <div class="navbar navbar-inverse" role="navigation">
     <div class="container">
@@ -11,7 +11,7 @@ data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Tog
 <span class="icon-bar"></span>
 
 </button>
-<a class="navbar-brand" href="/">Flasky</a> </div>
+<a class="navbar-brand" href="/">Prescription Drug Guide</a> </div>
 <div class="navbar-collapse collapse"> <ul class="nav navbar-nav">
 <li><a href="/">Home</a></li> </ul>
         </div>
@@ -21,7 +21,7 @@ data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Tog
 {% block content %}
 <div class="container">
 <div class="page-header">
-    <h1>DataFrame: {% if data %}{{ data | safe }}{% else %}Look for data!{% endif %}</h1> </div>
+    <h1>Available Medications: {% if data %}{{ data | safe }}{% else %}Look for data!{% endif %}</h1> </div>
 </div>
 {{ wtf.quick_form(form) }}
 {% endblock %}
